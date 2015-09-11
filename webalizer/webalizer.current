@@ -1,0 +1,3976 @@
+# Webalizer V2.20-01 Incremental Data - 08/26/2015 02:43:12
+2015 8 26 2 43 12
+6777 4704 978 273 63 110 192399251 2175 1677 0
+12 3 252 1 26
+174 81 3194306 95 67 59
+168 99 2769474 106 91 63
+275 136 6860937 101 61 59
+147 96 2417989 94 83 68
+259 211 9850033 78 118 63
+173 112 4429078 98 75 73
+200 142 5089161 115 109 68
+288 213 8280188 118 106 83
+142 90 2338486 88 67 64
+307 226 10547133 91 100 66
+165 108 2784635 103 71 66
+350 287 14667383 116 84 69
+178 119 3674108 74 61 59
+220 157 5268367 78 71 63
+314 243 9343000 105 88 63
+473 340 18208581 110 84 64
+284 222 12565584 66 87 61
+640 286 14646090 105 91 72
+413 338 14838180 97 107 82
+164 105 3640204 80 75 73
+299 245 11284003 72 97 70
+134 74 1757470 68 62 59
+234 175 6158692 69 120 67
+245 184 7993912 78 91 64
+516 405 9671955 73 100 70
+15 10 120302 12 9 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+353 297 14292605 121
+179 90 4391328 74
+200 149 3927410 95
+171 104 3548407 77
+193 140 4416846 76
+169 79 2392947 79
+140 93 2184142 62
+256 161 4740938 94
+232 179 6606534 85
+234 150 5521299 95
+209 149 4793697 82
+410 310 15835483 86
+335 277 11924972 131
+115 38 579186 58
+337 268 16979205 99
+529 179 8116378 72
+414 262 11592080 99
+173 101 5136463 59
+258 213 7645626 80
+325 260 11908941 105
+316 268 12576925 103
+339 256 12244520 100
+483 426 12536476 99
+407 255 8506843 144
+0
+0
+0
+4704
+0
+0
+0
+0
+0
+20
+0
+668
+10
+0
+451
+0
+0
+14
+1
+0
+700
+208
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-team.png
+0 1 475388928 178 0 0
+/wp-includes/js/tinymce/wp-tinymce.php
+0 1 475373216 134774 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/css/avia-media.css
+0 1 0 8283 0 0
+/wp-content/uploads/2013/04/Alex.png
+0 1 475376208 41999 0 0
+/wp-admin/admin-post.php
+0 1 0 0 0 0
+/wp-includes/css/buttons.min.css
+0 2 0 11958 0 0
+/wp-includes/images/spinner.gif
+0 1 475374544 4203 0 0
+/wp-content/uploads/2014/09/page-1-home-pic41-80x80.jpg
+0 1 475395776 3371 0 0
+/
+0 1445 0 36049646 1633 1286
+/wp-content/themes/twentyfourteen/screenshot.png
+0 1 0 617254 0 0
+/wp-content/uploads/2013/04/above_the_clouds_5021225-copy1-300x77.jpg
+0 1 0 2886 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-masonry-gallery.png
+0 1 475392000 159 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-magazine.png
+0 1 475387968 197 0 0
+/wp-includes/js/comment-reply.min.js
+0 98 0 61317 0 0
+/wp-content/uploads/2013/04/Bo1.jpg
+0 19 0 2647404 0 0
+/wp-content/uploads/2014/09/global-vision-80x80.png
+0 1 475396032 2982 0 0
+/wp-content/themes/enfold/framework/js/avia_edit_dynamic_templtes.js
+0 1 0 1431 0 0
+/readme.html
+0 1 0 7194 0 0
+/wp-content/uploads/2014/09/page-1-home-pic1.jpg
+0 43 0 11128110 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf
+0 60 0 2839920 0 0
+/wp-content/uploads/2013/04/Marc-80x80.png
+0 6 0 73416 0 0
+/wp-content/themes/enfold/framework/js/avia_media_wp35.js
+0 1 0 8500 0 0
+/wp-content/themes/enfold/framework/css/avia_admin.css
+0 1 475368080 44397 0 0
+/wp-content/uploads/2014/09/page-1-home-pic41.jpg
+0 40 0 9017658 0 0
+/wp-content/themes/enfold/js/html5shiv.js
+0 3 0 7287 0 0
+/wp-content/themes/enfold/framework/css/avia_sidebar.css
+0 1 0 1008 0 0
+/wp-content/uploads/2013/04/Alex-80x80.png
+0 6 0 81138 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-tabs.png
+0 1 475389888 192 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/css/layerslider.css
+0 89 0 1162392 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/js/avia-modal.js
+0 1 475371520 20994 0 0
+/wp-content/uploads/2014/09/what_we_do-sign.png
+0 8 0 82168 0 0
+/wp-content/uploads/2013/04/colorful-low-background2-300x173.jpg
+0 1 0 6018 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/js/avia-builder.js
+0 1 475371904 45380 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-three_fifth.png
+0 1 475386240 217 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/img/blank.gif
+0 50 0 2064 0 0
+/wp-content/uploads/2014/09/global-vision-300x80.png
+0 1 475374816 17672 0 0
+/wp-admin/
+0 3 0 178637 1 1
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-postslider.png
+0 1 475392960 187 0 0
+/wp-content/uploads/2012/04/014-260x185.jpg
+0 1 475398128 15300 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/icon-clone.png
+0 2 475394448 916 0 0
+/wp-content/uploads/2012/04/1-260x185.jpg
+0 1 475397840 13803 0 0
+/wp-includes/images/media/text.png
+0 1 475379472 188 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 93 0 540000 0 0
+/wp-content/uploads/2013/04/Meeter-80x80.png
+0 6 0 83286 0 0
+/wp-content/uploads/2013/04/Meeter.png
+0 1 475376608 82083 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-icon_box.png
+0 1 475388544 223 0 0
+/wp-content/uploads/2013/04/Marc.png
+0 1 475377152 70381 0 0
+/wp-content/uploads/2014/09/team_bg-300x102.jpg
+0 1 475377584 8017 0 0
+/wp-content/themes/enfold/framework/css/avia_colorpicker.css
+0 1 0 3632 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/icon-trash.png
+0 1 475394256 557 0 0
+/wp-content/uploads/2013/04/Pic1.png
+0 1 475376736 87400 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 1 475368224 790 0 0
+/wp-content/uploads/2013/04/William-281x300.jpg
+0 1 475378592 21500 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-text_block.png
+0 1 475385472 167 0 0
+/wp-admin/post-new.php
+0 1 475370448 227249 0 0
+/wp-includes/js/zxcvbn.min.js
+0 1 0 698728 0 0
+/wp-content/uploads/2014/09/who_we_are-sign.png
+0 7 0 68663 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/js/tinymce.js
+0 1 475373552 2535 0 0
+/wp-content/uploads/2014/09/page-3_top_pic.jpg
+0 8 0 1179808 0 0
+/wp-content/uploads/2012/04/2-180x180.jpg
+0 1 0 11362 0 0
+/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 1 475374112 35114 0 0
+/wp-admin/admin-ajax.php
+0 74 0 151020 0 0
+/wp-admin/css/login.min.css
+0 2 0 37560 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-third.png
+0 1 475384528 215 0 0
+/wp-content/themes/enfold/css/print.css
+0 83 0 315770 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/icon-shrink.png
+0 1 475394640 555 0 0
+/wp-content/uploads/2013/04/George-Crace-281x300.jpg
+0 1 475378304 16095 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/icon-edit.png
+0 1 475395024 546 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/icon-expand.png
+0 1 475393680 709 0 0
+/wp-content/themes/enfold/framework/js/avia_advanced_form_elements.js
+0 1 0 32029 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/codemirror/mode/javascript/
+0 1 0 3317 1 1
+/wp-content/themes/enfold/css/grid.css
+0 98 0 1220800 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-fifth.png
+0 1 475383952 208 0 0
+/wp-content/uploads/2013/04/colorful-low-background1-80x80.jpg
+0 1 0 1553 0 0
+/wp-content/uploads/dynamic_avia/enfold.css
+0 93 0 9427050 0 0
+/wp-content/themes/enfold/framework/js/avia_media.js
+0 1 475369392 9180 0 0
+/wp-content/uploads/2012/04/1-36x36.jpg
+0 1 475381776 1424 0 0
+/wp-content/uploads/2014/09/page-1-home-pic4-300x102.jpg
+0 1 0 15942 0 0
+/wp-content/themes/enfold/css/layout.css
+0 100 0 6397722 0 0
+/wp-content/uploads/2014/09/page-1-home-pic1-80x80.jpg
+0 1 475396464 4095 0 0
+/wp-content/uploads/2013/04/Bo1-80x80.jpg
+0 1 475397536 3257 0 0
+/wp-includes/js/tinymce/skins/wordpress/wp-content.css
+0 1 475374400 10454 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-masonry.png
+0 1 475389696 166 0 0
+/wp-content/uploads/2014/09/page-2_mid_background4-300x99.png
+0 1 0 14916 0 0
+/wp-content/uploads/2013/04/colorful-low-background1-300x173.jpg
+0 1 0 5331 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.js
+0 94 0 69762 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-four_fifth.png
+0 1 475386048 214 0 0
+/wp-admin/import.php
+0 1 475395216 30781 0 0
+/wp-content/uploads/2012/04/014-36x36.jpg
+0 2 0 3450 0 0
+/wp-content/uploads/2014/09/page-3_bg_watermark-300x99.jpg
+0 1 0 2964 0 0
+/wp-content/uploads/2012/04/013-260x185.jpg
+0 1 475398272 8593 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/js/avia-template-saving.js
+0 1 475372480 10398 0 0
+/wp-content/uploads/2013/04/Sushil-Ayri-281x300.jpg
+0 1 475378160 17699 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-fourth.png
+0 1 475384720 198 0 0
+/wp-content/uploads/2013/04/William.jpg
+0 21 0 3253440 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-contact.png
+0 1 475387584 265 0 0
+/wp-admin/user-edit.php
+0 2 0 78184 0 0
+/wp-content/uploads/2014/09/page-3_bg-1030x341.jpg
+0 8 0 218232 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-comments.png
+0 1 475390848 194 0 0
+/wp-content/uploads/2013/04/Sushil-Ayri.jpg
+0 19 0 2581020 0 0
+/wp-content/uploads/2014/09/page-3_bg_watermark-80x80.jpg
+0 1 0 1199 0 0
+/wp-content/uploads/2013/04/Jodi-Gill.jpg
+0 19 0 2488248 0 0
+/wp-content/themes/twentytwelve/screenshot.png
+0 1 0 323498 0 0
+/wp-content/themes/enfold/js/avia.js
+0 94 0 7418132 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-blog.png
+0 1 475388160 187 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-section.png
+0 1 475385856 200 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-half.png
+0 1 475384336 202 0 0
+/wp-content/uploads/2014/09/page-3_top_pic-80x80.jpg
+0 1 475397088 3365 0 0
+/wp-content/themes/enfold/framework/js/avia_option_pages.js
+0 1 0 19259 0 0
+/wp-admin/images/wordpress-logo.png
+0 1 0 2480 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-hr.png
+0 1 475385296 165 0 0
+/wp-admin/images/spinner.gif
+0 1 475371184 4203 0 0
+/wp-cron.php
+0 129 0 0 0 0
+/wp-includes/js/admin-bar.min.js
+0 3 475381184 6828 0 0
+/wp-content/uploads/2013/04/LOGO-C_gray-260.png
+0 33 0 790912 0 0
+/wp-content/uploads/2013/04/LOGO-C_icon_300x300.png
+0 13 0 302076 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/icon-grow.png
+0 1 475394832 552 0 0
+/wp-content/uploads/2014/09/meet_the_team-300x80.png
+0 1 475377728 16479 0 0
+/wp-content/uploads/2013/04/Catherine.jpg
+0 22 0 3689007 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.css
+0 1 475367936 4545 0 0
+/wp-content/uploads/2013/04/Lin-Yinying.png
+0 1 475376336 64998 0 0
+/xmlrpc.php
+0 22 0 8494 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-heading.png
+0 1 475387392 174 0 0
+/wp-content/uploads/2014/09/page-1-home-pic3-300x102.jpg
+0 1 0 8615 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/css/avia-builder.css
+0 1 475369040 49369 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-image.png
+0 1 475390272 249 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-button.png
+0 1 475386432 178 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/icon-redo.png
+0 1 475393872 499 0 0
+/wp-includes/js/tinymce/skins/lightgray/content.min.css
+0 1 475374256 1520 0 0
+/wp-content/uploads/2014/09/page-3_bg-300x99.jpg
+0 1 475379024 2721 0 0
+/license.txt
+0 1 0 19930 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-iconlist.png
+0 1 475387776 220 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 1 0 2148 0 0
+/wp-content/themes/enfold/framework/js/avia_mega_menu.js
+0 1 0 2905 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-sidebar.png
+0 1 475389504 184 0 0
+/wp-content/uploads/2013/04/Esther1-281x300.jpg
+0 1 475378016 22642 0 0
+/wp-content/uploads/2014/09/global-vision.png
+0 30 0 298671 0 0
+/wp-content/uploads/2014/09/pic_top_1400-300x102.jpg
+0 1 475380064 15643 0 0
+/wp-content/uploads/2013/04/Lin-Yinying-80x80.png
+0 6 0 88128 0 0
+/wp-content/uploads/2013/04/Esther1.jpg
+0 19 0 3187422 0 0
+/wp-content/uploads/2014/09/CREATING-2.png
+0 29 0 209272 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/skins/fullwidth/loading.gif
+0 33 0 140992 0 0
+/wp-content/uploads/2013/04/Stacy-Howell-281x300.jpg
+0 1 475377872 21024 0 0
+/wp-admin/load-scripts.php
+0 14 0 706442 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/js/avia-media.js
+0 1 475372288 10518 0 0
+/wp-content/uploads/2013/04/Catherine-281x300.jpg
+0 1 475378736 23144 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-icon.png
+0 1 475385664 353 0 0
+/wp-content/uploads/2014/09/what_we_do-sign-300x80.png
+0 1 475378880 17487 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-slideshow-full.png
+0 1 475391040 303 0 0
+/wp-content/uploads/2013/04/LOGO-trasparent_340x1561-300x178.png
+0 62 0 559988 0 0
+/wp-content/uploads/2013/04/Gu-80x80.png
+0 6 0 79602 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-contentslider.png
+0 1 475386624 179 0 0
+/wp-content/uploads/2014/09/quality-edu-sign-300x80.png
+0 1 475374672 14661 0 0
+/wp-content/uploads/2014/09/meet_the_team.png
+0 18 0 149004 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-table.png
+0 1 475388736 154 0 0
+/wp-content/themes/enfold/css/shortcodes.css
+0 95 0 10590195 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-image-hotspot.png
+0 1 475392576 335 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-notification.png
+0 1 475386816 166 0 0
+/wp-content/uploads/2014/09/page-3_top_pic-300x102.jpg
+0 1 475376064 8369 0 0
+/wp-content/uploads/2013/04/Barry.png
+0 1 475376864 97394 0 0
+/wp-admin/upgrade.php
+0 1 0 1 0 0
+/wp-content/uploads/2013/04/colorful-low-background2-80x80.jpg
+0 1 0 1681 0 0
+/wp-content/themes/enfold/framework/
+0 2 0 2264 2 1
+/wp-content/uploads/2012/04/2-36x36.jpg
+0 2 0 3166 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-gallery.png
+0 1 475392384 151 0 0
+/wp-content/themes/enfold/js/shortcodes.js
+0 91 0 9197416 0 0
+/wp-content/uploads/2014/09/pic_top_1400.jpg
+0 7 0 3537422 0 0
+/wp-content/uploads/2014/09/page-1-home-pic2-80x80.jpg
+0 1 475396176 4219 0 0
+/wp-content/uploads/2012/04/2-710x270.jpg
+0 1 475381904 36909 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg
+0 2 0 224242 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-two_third.png
+0 1 475384912 209 0 0
+/wp-content/uploads/2014/09/page-1-home-pic2-300x102.jpg
+0 1 0 14314 0 0
+/wp-content/uploads/2013/04/colorful-low-background-300x173.jpg
+0 1 0 4466 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/skins/fullwidth/skin.css
+0 49 0 168307 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/js/avia-history.js
+0 1 475372688 6258 0 0
+/wp-login.php
+0 265 0 720336 0 0
+/wp-includes/css/editor.min.css
+0 1 0 27025 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-two_fifth.png
+0 1 475384144 225 0 0
+/wp-admin/images/resize.gif
+0 1 475370560 71 0 0
+/wp-admin/users.php
+0 1 0 38132 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/codemirror/mode/javascript/typescript.html
+0 1 0 1209 0 1
+/wp-content/themes/twentythirteen/screenshot.png
+0 1 0 77773 0 0
+/wp-includes/js/tinymce/langs/wp-langs-en.js
+0 1 475373072 15599 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/tiny-button.png
+0 1 475373728 909 0 0
+/wp-content/themes/enfold/framework/js/avia_sidebar.js
+0 1 475369696 3175 0 0
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 90 0 5482872 0 0
+/wp-content/themes/enfold/images/layout/loading.gif
+0 1 0 2093 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/js/avia-tinymce-buttons-4.js
+0 1 475373344 6112 0 0
+/wp-includes/js/jquery/jquery.js
+0 100 0 7856174 0 0
+/wp-admin/css/install.css
+0 1 0 6187 0 0
+/wp-content/uploads/2013/04/above_the_clouds_5021225-copy1-80x80.jpg
+0 1 0 1220 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-accordion-slider.png
+0 1 475391424 147 0 0
+/wp-admin/profile.php
+0 1 475383536 38210 0 0
+/wp-content/uploads/2013/04/George-Crace.jpg
+0 19 0 2780910 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/js/layerslider.transitions.js
+0 88 0 1539935 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/js/avia-element-behavior.js
+0 1 475371312 15356 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/css/global.css
+0 1 0 11937 0 0
+/wp-content/uploads/2014/09/team_bg_2-80x80.jpg
+0 1 475397232 2422 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/js/avia-tab-toggle.js
+0 1 475372096 2100 0 0
+/wp-content/uploads/2013/04/Barry-80x80.png
+0 6 0 87672 0 0
+/wp-content/uploads/2013/04/Bo1-281x300.jpg
+0 1 475377440 18703 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/loading.gif
+0 1 475393488 4682 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-fullscreen.png
+0 1 475391808 185 0 0
+/wp-admin/load-styles.php
+0 3 0 253466 0 0
+/wp-content/uploads/2012/04/014-710x270.jpg
+0 1 475382192 41156 0 0
+/wp-content/uploads/2013/04/Stacy-Howell.jpg
+0 20 0 2844490 0 0
+/wp-content/uploads/2014/09/LOGO-small_160.png
+0 1 475379600 7783 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff
+0 39 0 1108944 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/icon-info.png
+0 1 475393296 743 0 0
+/wp-content/uploads/2012/04/1-710x270.jpg
+0 1 475382336 49855 0 0
+/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js
+0 92 0 1550078 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/css/avia-modal.css
+0 1 475368368 11471 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-slideshow.png
+0 1 475390656 321 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/select.png
+0 1 475370800 242 0 0
+/wp-content/uploads/2014/09/quality-edu-sign.png
+0 28 0 283851 0 0
+/wp-content/themes/enfold/framework/js/avia_dynamic_templates.js
+0 1 0 13799 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-portfolio.png
+0 1 475388352 148 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-accordion.png
+0 1 475387008 162 0 0
+/wp-content/uploads/2014/09/page-1-home-pic1-300x102.jpg
+0 1 0 13982 0 0
+/wp-content/uploads/2014/09/page-1-home-pic41-300x102.jpg
+0 1 0 11380 0 0
+/wp-admin/images/wpspin_light-2x.gif
+0 1 475370320 9097 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-video.png
+0 1 475391232 179 0 0
+/wp-admin/upload.php
+0 1 475395552 76570 0 0
+/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css
+0 102 0 1530228 0 0
+/wp-content/uploads/2013/04/above_the_clouds_5021225-copy1-1500x411.jpg
+0 6 0 231516 0 0
+/wp-content/uploads/2014/09/team_bg_2-300x102.jpg
+0 1 475375920 6890 0 0
+/wp-content/themes/enfold/css/custom.css
+0 92 0 61790 0 0
+/wp-content/uploads/2014/09/quality-edu-sign-80x80.png
+0 1 475396320 2826 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-testimonials.png
+0 1 475390464 245 0 0
+/wp-content/themes/enfold/framework/js/avia_colorpicker.js
+0 1 0 30700 0 0
+/wp-content/uploads/2013/04/Pic1-80x80.png
+0 6 0 93264 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-promobox.png
+0 1 475387200 178 0 0
+/wp-admin/post.php
+0 5 475380208 1239738 0 0
+/icons/apache_pb.gif
+0 1 0 0 0 0
+/wp-includes/css/dashicons.min.css
+0 4 0 80900 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 1 0 15238 0 0
+/wp-content/uploads/2014/09/LOGO-small_200_worldmap.png
+0 45 0 1070920 0 0
+/wp-content/themes/enfold/js/aviapopup/magnific-popup.css
+0 99 0 618840 0 0
+/wp-admin/images/wordpress-logo.svg
+0 2 0 3042 0 0
+/wp-content/uploads/2013/04/LOGO-C_gray_270.png
+0 1 475379328 25080 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-full.png
+0 1 475383648 198 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-partner.png
+0 1 475392768 184 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-maps.png
+0 1 475392192 363 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/js/avia-tooltip.js
+0 1 475372880 5273 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-slideshow-layer.png
+0 1 475391616 249 0 0
+/wp-content/themes/enfold/framework/js/avia_media_advanced.js
+0 1 0 16579 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js
+0 89 0 4338472 0 0
+/wp-admin/edit.php
+0 8 475381312 664903 0 0
+/wp-content/uploads/2013/04/Jodi-Gill-281x300.jpg
+0 1 475378448 18121 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/icon-undo.png
+0 1 475394064 501 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-three_fourth.png
+0 1 475385104 238 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot
+0 3 0 142584 0 0
+/wp-content/uploads/2013/04/colorful-low-background-80x80.jpg
+0 1 0 1386 0 0
+/wp-content/uploads/2012/04/2-260x185.jpg
+0 1 475397984 15674 0 0
+/wp-content/uploads/2012/04/013-36x36.jpg
+0 1 475381520 1257 0 0
+/wp-content/uploads/2014/09/team_bg_2.jpg
+0 18 0 1500210 0 0
+/wp-admin/tools.php
+0 1 475395328 29427 0 0
+/wp-content/uploads/2014/09/CONNECTING.png
+0 30 0 384453 0 0
+/wp-admin/update-core.php
+0 1 0 32625 0 0
+/wp-content/uploads/2012/04/013-710x270.jpg
+0 1 475382048 24645 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-progressbar.png
+0 1 475389120 167 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-numbers.png
+0 1 475389312 330 0 0
+/wp-content/uploads/2013/04/colorful-low-background2.jpg
+0 6 0 561696 0 0
+/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 1 475367792 19738 0 0
+/wp-content/uploads/2013/04/Gu.png
+0 1 475376480 91549 0 0
+/wp-content/uploads/2014/09/page-1-home-pic2.jpg
+0 45 0 12469380 0 0
+/wp-content/themes/enfold/js/avia-compat.js
+0 96 0 86190 0 0
+/wp-includes/css/admin-bar.min.css
+0 3 475381056 18746 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/js/avia-table.js
+0 1 475371712 9519 0 0
+/wp-content/themes/enfold/css/base.css
+0 102 0 1099980 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/images/sc-codeblock.png
+0 1 475390080 278 0 0
+/wp-content/uploads/2014/09/page-2_mid_background4-1500x430.png
+0 7 0 744037 0 0
+/wp-content/themes/enfold/config-layerslider/LayerSlider/static/js/greensock.js
+0 87 0 3817512 0 0
+# End Of Table - urls
+# -sites- (monthly)
+baiduspider-180-76-15-146.crawl.baidu.com
+0 28 10 235817 27 1440531227
+/
+baiduspider-220-181-108-181.crawl.baidu.com
+0 2 2 19052 0 0
+-
+58.140.92.180-static-fiberlink.net.pk
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-83.crawl.baidu.com
+0 1 1 7640 0 0
+-
+baiduspider-220-181-108-185.crawl.baidu.com
+0 4 4 234878 0 0
+-
+197.157.218.138
+0 2 1 2715 0 0
+-
+177-200-79-158.static.skysever.com.br
+0 1 0 44 0 0
+-
+89.41.19.183
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-87.crawl.baidu.com
+0 1 1 95807 0 0
+-
+107-211-33-125.lightspeed.gnvlsc.sbcglobal.net
+0 71 71 4504216 2 1439411856
+/
+msnbot-157-55-39-205.search.msn.com
+0 8 8 314281 1 1438498900
+/
+62.121.105.226
+0 1 0 44 0 0
+-
+189.26.35.186.dynamic.adsl.gvt.net.br
+0 1 0 44 0 0
+-
+89-118-12-150-static.albacom.net
+0 2 2 6230 0 0
+-
+92-247-235-51.spectrumnet.bg
+0 1 0 44 0 0
+-
+bzq-109-66-187-234.red.bezeqint.net
+0 4 0 176 0 0
+-
+13.171.broad.ha.dynamic.163data.com.cn
+0 1 1 20057 1 1439337970
+/
+84-252-38-248.2073165411.ddns-lan.kn.ekk.bg
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-153.crawl.baidu.com
+0 19 10 234469 17 1440488454
+/
+crawl-66-249-69-86.googlebot.com
+0 15 10 432928 5 1439129812
+/
+79-114-120-72.rdsnet.ro
+0 1 0 44 0 0
+-
+185.53.44.22
+0 1 0 497 0 0
+-
+athedsl-215299.home.otenet.gr
+0 1 0 44 0 0
+-
+90.169.232.196
+0 4 0 176 0 0
+-
+baiduspider-180-76-15-157.crawl.baidu.com
+0 18 14 285163 18 1440549298
+/
+baiduspider-123-125-71-90.crawl.baidu.com
+0 2 2 36803 0 0
+-
+msnbot-131-253-38-67.search.msn.com
+0 20 4 91492 4 1440480427
+/
+112.231.57.37.triolan.net
+0 3 0 497 3 1440319297
+-
+static-ip-85-25-103-119.inaddr.ip-pool.com
+0 1 0 0 1 1439601043
+/
+host196-33-dynamic.11-87-r.retail.telecomitalia.it
+0 1 0 44 0 0
+-
+69-196-176-107.dsl.teksavvy.com
+0 1 0 44 0 0
+-
+50.45.231.98
+0 2 2 36277 1 1440369851
+/
+baiduspider-180-76-15-160.crawl.baidu.com
+0 21 16 337198 21 1440477141
+/
+114.112.192.213
+0 1 1 2671 0 0
+-
+msnbot-207-46-13-39.search.msn.com
+0 2 1 2926 0 0
+-
+crawl-66-249-65-57.googlebot.com
+0 11 11 318093 9 1440075857
+/
+37.27.43.97
+0 1 0 44 0 0
+-
+151-238-92-202.shatel.ir
+0 1 0 44 0 0
+-
+173-164-108-181-oregon.hfc.comcastbusiness.net
+0 197 197 12195132 6 1440115787
+/
+74satb1.codetel.net.do
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-78.crawl.baidu.com
+0 6 6 382993 0 0
+-
+athedsl-320341.home.otenet.gr
+0 1 0 44 0 0
+-
+104.131.188.19
+0 1 1 0 1 1438774215
+/
+45.64.14.92
+0 2 0 88 0 0
+-
+85.121.147.232
+0 1 0 44 0 0
+-
+66.207.15.37.dynamic.jazztel.es
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-81.crawl.baidu.com
+0 3 3 271167 0 0
+-
+43.225.192.18
+0 5 0 220 0 0
+-
+bzq-84-109-90-4.cablep.bezeqint.net
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-85.crawl.baidu.com
+0 3 3 56077 0 0
+-
+crawl-66-249-67-117.googlebot.com
+0 8 8 279109 3 1439973384
+/
+baiduspider-220-181-108-89.crawl.baidu.com
+0 8 8 268946 1 1438925333
+/
+pool-173-78-189-184.tampfl.fios.verizon.net
+0 3 0 132 0 0
+-
+91-214-202-24.roxnet.md
+0 6 5 54880 1 1438406645
+/
+105.106.12.21
+0 1 0 44 0 0
+-
+109.59.99.249.mobile.3.dk
+0 1 0 44 0 0
+-
+14.169.143.96
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-13.crawl.baidu.com
+0 17 10 179743 17 1440416178
+/
+dsl.49.146.222.198.pldt.net
+0 1 0 44 0 0
+-
+bba425514.alshamil.net.ae
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-17.crawl.baidu.com
+0 17 6 112527 17 1440554009
+/
+45.118.62.55
+0 1 0 44 0 0
+-
+orion2370.startdedicated.com
+0 3 0 0 0 0
+-
+203.87.133.84
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-92.crawl.baidu.com
+0 5 4 22229 1 1438399191
+/
+2.50.50.143
+0 1 0 44 0 0
+-
+78-6-168-22-static.albacom.net
+0 1 1 2671 0 0
+-
+209.236.13.139
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-96.crawl.baidu.com
+0 4 4 280958 1 1439608246
+/
+host-45-58-193-152.dyn.295.ca
+0 1 0 44 0 0
+-
+crawl-192-99-107-134.meanpathbot.com
+0 1 1 21382 1 1439431325
+/
+baiduspider-180-76-15-20.crawl.baidu.com
+0 21 9 159109 19 1440439783
+/
+baiduspider-180-76-15-24.crawl.baidu.com
+0 21 14 273649 21 1440545972
+/
+baiduspider-180-76-15-28.crawl.baidu.com
+0 25 12 243203 25 1440431717
+/
+94.176.156.25
+0 1 0 44 0 0
+-
+64.79.100.22.webcrawler.link
+0 21 20 555959 1 1438557314
+/
+crawl-66-249-67-110.googlebot.com
+0 1 0 0 1 1439969464
+/
+103.231.163.174
+0 1 0 44 0 0
+-
+109.169.29.30
+0 70 66 2472272 1 1440288557
+/
+ec2-54-196-99-230.compute-1.amazonaws.com
+0 1 1 21206 1 1439896992
+/
+ns304408.ip-94-23-217.eu
+0 4 1 21421 0 0
+-
+baiduspider-180-76-15-6.crawl.baidu.com
+0 24 14 357530 24 1440527626
+/
+baiduspider-180-76-15-31.crawl.baidu.com
+0 21 13 242740 21 1440552068
+/
+197-87-247-224.cpt.mweb.co.za
+0 1 0 44 0 0
+-
+94.176.154.97
+0 1 0 44 0 0
+-
+79-113-236-0.rdsnet.ro
+0 1 0 44 0 0
+-
+crawl-66-249-79-232.googlebot.com
+0 5 5 234771 0 0
+-
+103.231.163.186
+0 2 0 88 0 0
+-
+node-570.pool-1-1.dynamic.totbb.net
+0 1 0 44 0 0
+-
+169.54.233.120-static.reverse.softlayer.com
+0 1 1 21382 1 1439354586
+/
+fm-dyn-139-193-133-11.fast.net.id
+0 1 0 44 0 0
+-
+host-31-42-175-146.pois.com.ua
+0 2 1 2715 0 0
+-
+109.96.49.176
+0 1 0 44 0 0
+-
+msnbot-207-46-13-84.search.msn.com
+0 2 2 43434 2 1439172477
+/
+gw.elreko.cz
+0 2 0 88 0 0
+-
+google-proxy-66-249-82-157.google.com
+0 13 13 549540 1 1439676027
+/
+oclock-series.geunite.com
+0 6 6 96264 1 1438456484
+/
+bzq-79-182-176-87.red.bezeqint.net
+0 1 0 44 0 0
+-
+112.210.197.75.pldt.net
+0 1 0 44 0 0
+-
+msnbot-157-55-39-19.search.msn.com
+0 11 8 372807 1 1439760210
+/
+cable-94-189-215-132.dynamic.sbb.rs
+0 1 0 44 0 0
+-
+176-123-5-40.alexhost.md
+0 1 1 403 0 0
+-
+179.185.191.24.dynamic.adsl.gvt.net.br
+0 1 0 44 0 0
+-
+51b688ad.dsl.pool.telekom.hu
+0 1 0 44 0 0
+-
+161.202.72.160-static.reverse.softlayer.com
+0 2 1 21382 1 1439849617
+/
+79-75-97-223.dynamic.dsl.as9105.com
+0 8 7 291150 1 1440302614
+/
+89.248.172.78
+0 1 1 21382 1 1439500921
+/
+baiduspider-220-181-108-100.crawl.baidu.com
+0 5 5 133757 0 0
+-
+77-27-3.static.cyta.gr
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-104.crawl.baidu.com
+0 4 4 326567 0 0
+-
+94.121.20.154
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-108.crawl.baidu.com
+0 7 7 284274 0 0
+-
+crawl-192-99-107-170.meanpathbot.com
+0 1 0 497 0 0
+-
+cable-24-135-117-122.dynamic.sbb.rs
+0 1 0 44 0 0
+-
+187-52-187-97.nhoce701.e.brasiltelecom.net.br
+0 47 46 4276217 1 1439379324
+/
+bb202.166.55.253.singnet.com.sg
+0 1 1 403 0 0
+-
+crawl-192-99-107-174.meanpathbot.com
+0 1 1 21382 1 1438620048
+/
+39.33.237.105
+0 1 0 44 0 0
+-
+125.73.184.33
+0 2 1 2715 0 0
+-
+msnbot-157-55-39-68.search.msn.com
+0 1 0 497 0 0
+-
+111.206.36.8
+0 2 2 136837 0 0
+-
+92.87.13.201
+0 1 0 44 0 0
+-
+fl1-27-127-48-198.gif.mesh.ad.jp
+0 1 0 44 0 0
+-
+host138-74-dynamic.44-79-r.retail.telecomitalia.it
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-111.crawl.baidu.com
+0 7 7 268534 0 0
+-
+37.107.86.60
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-13.crawl.baidu.com
+0 4 4 47557 0 0
+-
+baiduspider-220-181-108-115.crawl.baidu.com
+0 3 3 67018 0 0
+-
+151-247-134-55.shatel.ir
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-119.crawl.baidu.com
+0 4 4 256637 0 0
+-
+baiduspider-123-125-71-17.crawl.baidu.com
+0 1 1 15260 0 0
+-
+d198-53-57-106.abhsia.telus.net
+0 1 0 44 0 0
+-
+178-221-208-80.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+121.54.46.168
+0 1 0 44 0 0
+-
+41.99.117.130
+0 1 0 44 0 0
+-
+94-153-9-65-lvv.broadband.kyivstar.net
+0 46 23 62445 0 0
+-
+39.44.111.52
+0 1 0 44 0 0
+-
+msnbot-207-46-13-71.search.msn.com
+0 1 1 2671 0 0
+-
+baiduspider-123-125-71-20.crawl.baidu.com
+0 1 1 21382 1 1438861190
+/
+baiduspider-220-181-108-122.crawl.baidu.com
+0 3 3 57302 0 0
+-
+119.94.111.205.static.pldt.net
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-28.crawl.baidu.com
+0 3 2 28587 1 1438681356
+/
+185.23.48.143
+0 1 0 44 0 0
+-
+crawl-66-249-64-149.googlebot.com
+0 6 5 318585 1 1439308842
+/
+45.55.225.74
+0 1 1 0 0 0
+-
+176.14.41.41
+0 2 1 21206 1 1439677872
+/
+customer-pue-163-100.megared.net.mx
+0 2 1 2715 0 0
+-
+196.216.136.4
+0 2 1 21382 1 1439884689
+/
+46.102.69.45
+0 1 0 44 0 0
+-
+41.141.1.136
+0 1 0 44 0 0
+-
+5.29.215.172
+0 1 0 44 0 0
+-
+adsl-dyn98.78-98-195.t-com.sk
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-31.crawl.baidu.com
+0 2 2 149124 1 1440044809
+/
+94.121.20.181
+0 1 0 44 0 0
+-
+39.32.57.211
+0 1 0 44 0 0
+-
+msnbot-157-55-39-129.search.msn.com
+0 2 1 21184 1 1439430894
+/
+81.161.60.193
+0 1 0 44 0 0
+-
+msnbot-157-55-39-169.search.msn.com
+0 1 1 59200 1 1440186820
+/
+baiduspider-123-125-71-39.crawl.baidu.com
+0 3 1 4858 2 1439600521
+/
+176-8-90-124-lvv.broadband.kyivstar.net
+0 1 1 2671 0 0
+-
+crawl-66-249-73-226.googlebot.com
+0 3 0 0 3 1440075856
+/
+93-103-73-164.dynamic.t-2.net
+0 2 0 88 0 0
+-
+researchscan353.eecs.umich.edu
+0 1 0 226 1 1438532764
+-
+62.113.13.44
+0 1 1 403 0 0
+-
+msnbot-157-55-39-55.search.msn.com
+0 18 12 514191 1 1439715816
+/
+dsl-187-194-8-235-dyn.prod-infinitum.com.mx
+0 1 0 44 0 0
+-
+134-249-53-43-broadband.kyivstar.net
+0 2 1 2715 0 0
+-
+baiduspider-220-181-108-140.crawl.baidu.com
+0 2 2 284301 0 0
+-
+185.63.255.91
+0 2 1 2671 1 1438746023
+/
+187.58.65.252.static.gvt.net.br
+0 39 38 1937544 1 1440489074
+/
+baiduspider-220-181-108-144.crawl.baidu.com
+0 1 1 48016 1 1439263915
+/
+59.25.77.138
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-42.crawl.baidu.com
+0 1 1 906 0 0
+-
+baiduspider-123-125-71-46.crawl.baidu.com
+0 2 2 99403 1 1439321789
+/
+79-116-118-70.rdsnet.ro
+0 2 0 88 0 0
+-
+google-proxy-66-249-82-182.google.com
+0 1 0 0 1 1439676025
+/
+96.117.85.222.broad.zz.ha.dynamic.163data.com.cn
+0 72 72 5256447 1 1439686960
+/
+82.79.178.37
+0 1 0 44 0 0
+-
+103.224.37.5
+0 2 0 88 0 0
+-
+baiduspider-123-125-71-107.crawl.baidu.com
+0 1 1 757 0 0
+-
+139.192.153.49
+0 1 0 44 0 0
+-
+37.213.120.30
+0 2 0 88 0 0
+-
+62-210-69-173.rev.poneytelecom.eu
+0 2 0 994 0 0
+-
+93.115.254.141
+0 1 0 44 0 0
+-
+94.59.105.245
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-151.crawl.baidu.com
+0 3 3 17271 0 0
+-
+202.44.228.42
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-53.crawl.baidu.com
+0 2 2 22139 1 1439727963
+/
+baiduspider-220-181-108-155.crawl.baidu.com
+0 3 3 104112 0 0
+-
+host68-35-dynamic.11-87-r.retail.telecomitalia.it
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-57.crawl.baidu.com
+0 1 0 0 1 1439970524
+/
+baiduspider-220-181-108-159.crawl.baidu.com
+0 1 1 835 0 0
+-
+baiduspider-123-125-71-110.crawl.baidu.com
+0 4 4 199663 1 1439194560
+/
+baiduspider-123-125-71-114.crawl.baidu.com
+0 2 2 26190 0 0
+-
+213.147.102.171
+0 1 0 44 0 0
+-
+77.29.130.128
+0 1 1 403 0 0
+-
+216.58.145.196
+0 38 38 1946146 1 1440070547
+/
+122.53.125.17.static.pldt.net
+0 1 0 44 0 0
+-
+172.56.6.87
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-60.crawl.baidu.com
+0 3 3 55059 2 1439378597
+/
+baiduspider-220-181-108-162.crawl.baidu.com
+0 2 2 48167 0 0
+-
+110.55.5.21.bti.net.ph
+0 1 0 44 0 0
+-
+5.238.252.60
+0 1 0 44 0 0
+-
+46.217.134.182
+0 1 1 403 0 0
+-
+host120-221-dynamic.54-82-r.retail.telecomitalia.it
+0 1 0 44 0 0
+-
+104.207.136.116
+0 1 0 44 0 0
+-
+185.23.48.183
+0 1 0 44 0 0
+-
+static.3.120.4.46.clients.your-server.de
+0 10 9 109561 1 1440489515
+/
+121-98-143-85.bng1.nct.orcon.net.nz
+0 1 0 44 0 0
+-
+89.136.176.8
+0 1 0 44 0 0
+-
+182.186.179.100
+0 2 0 88 0 0
+-
+67.22.248.52
+0 129 126 8197139 3 1440006140
+/
+139.195.41.177
+0 2 0 88 0 0
+-
+static-208-80-194-124.as13448.com
+0 1 1 21382 1 1440287682
+/
+37.27.104.48
+0 1 0 44 0 0
+-
+79-114-80-153.rdsnet.ro
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-134.crawl.baidu.com
+0 17 11 247788 17 1440391233
+/
+203.10.16.3
+0 2 2 6230 0 0
+-
+baiduspider-180-76-15-138.crawl.baidu.com
+0 22 17 315255 20 1440495074
+/
+baiduspider-123-125-71-71.crawl.baidu.com
+0 4 4 134315 0 0
+-
+msnbot-157-55-39-82.search.msn.com
+0 12 11 491696 1 1439631446
+/
+82-137-52-46.rdsnet.ro
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-177.crawl.baidu.com
+0 3 2 68927 1 1439114455
+-
+baiduspider-123-125-71-75.crawl.baidu.com
+0 3 3 214863 0 0
+-
+ec2-54-91-137-217.compute-1.amazonaws.com
+0 1 1 21382 1 1440542659
+/
+static.172.123.4.46.clients.your-server.de
+0 8 7 153212 1 1439864044
+/
+baiduspider-123-125-71-79.crawl.baidu.com
+0 1 1 757 0 0
+-
+79-114-212-171.rdsnet.ro
+0 2 0 88 0 0
+-
+85-20-54-135-static.albacom.net
+0 2 2 6230 0 0
+-
+crawl-66-249-64-254.googlebot.com
+0 2 0 497 1 1439301665
+/
+195-154-237-149.rev.poneytelecom.eu
+0 2 1 20683 1 1439515508
+/
+14.21.22.218.broad.static.hf.ah.cndata.com
+0 3 0 132 0 0
+-
+251.71.172.46.customer.rostnet.net
+0 10 0 4970 10 1440510998
+-
+p54b10d58.dip0.t-ipconnect.de
+0 2 1 21206 1 1439685312
+/
+baiduspider-180-76-15-141.crawl.baidu.com
+0 27 19 472105 25 1440495097
+/
+80.78.78.134
+0 1 0 44 0 0
+-
+109.57.172.68.mobile.3.dk
+0 1 0 44 0 0
+-
+80.227.88.41
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-145.crawl.baidu.com
+0 19 9 234438 18 1440437853
+/
+62.90.136.12
+0 2 1 2715 0 0
+-
+186.247.52.29
+0 5 3 69204 1 1439038988
+/
+baiduspider-220-181-108-180.crawl.baidu.com
+0 1 1 29613 1 1439863975
+/
+baiduspider-180-76-15-149.crawl.baidu.com
+0 23 14 298670 22 1440464746
+/
+ip87-10.mwtv.lv
+0 2 1 21918 1 1440284834
+/
+baiduspider-220-181-108-184.crawl.baidu.com
+0 6 6 369237 1 1439396773
+/
+baiduspider-123-125-71-86.crawl.baidu.com
+0 2 2 31312 0 0
+-
+85.204.98.154
+0 1 0 44 0 0
+-
+39.41.98.133
+0 1 1 403 0 0
+-
+ec2-54-153-54-125.us-west-1.compute.amazonaws.com
+0 1 1 21206 1 1438788267
+/
+mobile-166-137-118-120.mycingular.net
+0 55 55 3566456 1 1438804012
+/
+95.86.50.25
+0 2 0 88 0 0
+-
+189-78-128-249.dsl.telesp.net.br
+0 2 2 6230 0 0
+-
+baiduspider-180-76-15-152.crawl.baidu.com
+0 35 15 344285 33 1440520731
+/
+serv2turkey.com
+0 3 0 30070 1 1438480579
+/
+node-115-187-41-103.alliancebroadband.in
+0 2 0 88 0 0
+-
+180.251.197.93
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-156.crawl.baidu.com
+0 20 13 272712 18 1440376632
+/
+86-124-197-112.rdsnet.ro
+0 1 0 44 0 0
+-
+39.42.31.214
+0 1 1 403 0 0
+-
+sol-fttb.176.158.118.46.sovam.net.ua
+0 104 52 141180 0 0
+-
+39.42.65.225
+0 1 0 44 0 0
+-
+1.32.71.138
+0 1 0 44 0 0
+-
+61.49.45.42
+0 2 2 41615 1 1440185552
+/
+msnbot-157-55-39-143.search.msn.com
+0 1 1 30790 1 1439026645
+/
+pool-27-187-17-186.telecel.com.py
+0 1 0 44 0 0
+-
+178-223-222-241.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+88-222-234-44.meganet.lt
+0 1 0 44 0 0
+-
+111.206.36.10
+0 3 3 286616 0 0
+-
+178-137-166-138-broadband.kyivstar.net
+0 14 7 19005 0 0
+-
+cpe-76-185-135-131.tx.res.rr.com
+0 830 417 13770716 4 1440544567
+/
+msnbot-207-46-13-29.search.msn.com
+0 3 3 70710 1 1439525477
+/
+baiduspider-180-76-15-163.crawl.baidu.com
+0 17 8 133007 16 1440537250
+/
+census3.shodan.io
+0 3 1 22376 1 1439423336
+/
+190-78-131-214.dyn.dsl.cantv.net
+0 2 0 88 0 0
+-
+msnbot-207-46-13-69.search.msn.com
+0 4 4 120274 1 1440453263
+/
+dsl-187-194-31-131-dyn.prod-infinitum.com.mx
+0 1 0 44 0 0
+-
+89-119-238-62-static.albacom.net
+0 2 1 2715 0 0
+-
+216-55-138-211.dedicated.codero.net
+0 35 31 1133362 1 1439676203
+/
+awbl38-242.qubee.com.bd
+0 2 0 88 0 0
+-
+176.18.67.180
+0 1 0 44 0 0
+-
+50.118.112.99
+0 130 130 1 0 0
+-
+mm-251-16-126-178.vitebsk.dynamic.pppoe.byfly.by
+0 1 0 44 0 0
+-
+41.102.144.124
+0 1 0 44 0 0
+-
+5-14-233-29.residential.rdsnet.ro
+0 1 0 44 0 0
+-
+bas2-toronto44-1242514652.dsl.bell.ca
+0 1 1 21382 1 1439525563
+/
+89-178-68-34.broadband.corbina.ru
+0 25 24 1046485 1 1440126976
+/
+msnbot-157-55-39-253.search.msn.com
+0 1 1 29613 1 1438885015
+/
+msnbot-157-55-39-152.search.msn.com
+0 1 1 29848 1 1439394050
+/
+baiduspider-220-181-108-77.crawl.baidu.com
+0 5 5 196652 1 1440428253
+/
+175.113.158.240
+0 1 0 44 0 0
+-
+115.134.150.168
+0 1 0 44 0 0
+-
+crawl-66-249-79-117.googlebot.com
+0 4 2 23803 1 1440468616
+/
+msnbot-207-46-13-78.search.msn.com
+0 10 10 490049 1 1438778682
+/
+95.76.68.103
+0 1 0 44 0 0
+-
+cable-24-135-122-99.dynamic.sbb.rs
+0 2 0 88 0 0
+-
+baiduspider-220-181-108-80.crawl.baidu.com
+0 6 5 161536 1 1439344977
+/
+crawl-66-249-64-135.googlebot.com
+0 4 4 142262 2 1439301668
+/
+36.85.209.162
+0 1 1 403 0 0
+-
+msnbot-157-55-39-121.search.msn.com
+0 7 6 145520 2 1440450723
+/
+baiduspider-220-181-108-84.crawl.baidu.com
+0 4 4 239874 0 0
+-
+ec2-54-147-192-93.compute-1.amazonaws.com
+0 2 1 21206 1 1440442372
+/
+baiduspider-220-181-108-88.crawl.baidu.com
+0 5 5 217773 0 0
+-
+ns509926.ip-198-27-64.net
+0 2 1 30110 1 1439025178
+/
+cable-178-148-153-60.dynamic.sbb.rs
+0 1 0 44 0 0
+-
+host16-50-static.21-80-b.business.telecomitalia.it
+0 1 1 2671 0 0
+-
+105.109.114.86
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-12.crawl.baidu.com
+0 15 7 112720 15 1440452128
+/
+41.159.150.2
+0 38 37 1937501 1 1439372512
+/
+baiduspider-180-76-15-16.crawl.baidu.com
+0 22 16 283573 20 1440401853
+/
+197.119.213.42
+0 1 0 44 0 0
+-
+151-247-143-160.shatel.ir
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-91.crawl.baidu.com
+0 6 6 273409 0 0
+-
+crawl-66-249-79-110.googlebot.com
+0 2 0 497 1 1440489799
+/
+baiduspider-220-181-108-95.crawl.baidu.com
+0 9 8 482587 1 1440192256
+/
+baiduspider-220-181-108-99.crawl.baidu.com
+0 4 3 23295 1 1439656916
+/
+180.153.180.190
+0 1 1 21382 1 1440539596
+/
+46.217.133.11
+0 1 1 403 0 0
+-
+bzq-79-183-217-60.red.bezeqint.net
+0 1 0 44 0 0
+-
+79-119-180-40.rdsnet.ro
+0 1 0 44 0 0
+-
+93-63-88-184.ip27.fastwebnet.it
+0 2 1 21879 1 1440458942
+/
+baiduspider-180-76-15-23.crawl.baidu.com
+0 21 10 214713 21 1440506232
+/
+crawl421.us.archive.org
+0 2 0 497 1 1438413674
+/
+baiduspider-180-76-15-27.crawl.baidu.com
+0 17 11 192747 17 1440520764
+/
+bzq-79-180-135-220.red.bezeqint.net
+0 1 0 44 0 0
+-
+12.167.151.89
+0 40 38 1940447 1 1439724825
+/
+94.200.240.42
+0 1 0 44 0 0
+-
+93.114.119.168
+0 2 0 88 0 0
+-
+175.113.141.40
+0 1 0 44 0 0
+-
+p25.eregie.pub.ro
+0 1 0 44 0 0
+-
+mobile-166-137-126-111.mycingular.net
+0 41 41 2649419 1 1438387628
+/
+r179-24-104-93.dialup.adsl.anteldata.net.uy
+0 1 0 44 0 0
+-
+45.118.62.174
+0 1 0 44 0 0
+-
+61.135.190.103
+0 3 3 287421 0 0
+-
+5.78.243.167
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-5.crawl.baidu.com
+0 21 12 251473 19 1440502671
+/
+baiduspider-180-76-15-30.crawl.baidu.com
+0 18 11 200632 18 1440459514
+/
+baiduspider-180-76-15-34.crawl.baidu.com
+0 25 11 196443 23 1440534993
+/
+baiduspider-180-76-15-9.crawl.baidu.com
+0 14 7 127422 14 1440556960
+/
+191-205-36-158.user.vivozap.com.br
+0 1 0 0 1 1439908092
+/
+79-118-186-195.rdsnet.ro
+0 1 0 44 0 0
+-
+150-70-97-113.trendmicro.com
+0 2 1 21206 2 1439677805
+/
+crawl-66-249-73-234.googlebot.com
+0 2 0 497 1 1439987843
+/
+f481.fuchsia.fastwebserver.de
+0 6 5 101547 1 1439403730
+/
+89-68-194-8.dynamic.chello.pl
+0 2 0 88 0 0
+-
+researchscan.comsys.rwth-aachen.de
+0 4 4 62999 2 1439451357
+/
+121.168.118.160
+0 2 1 2715 0 0
+-
+b1b673ef.virtua.com.br
+0 30 29 1108442 1 1440267104
+/
+crawl-192-99-107-159.meanpathbot.com
+0 1 1 21382 1 1439075451
+/
+45.118.62.187
+0 1 0 44 0 0
+-
+57.61.79.188.dynamic.jazztel.es
+0 1 0 44 0 0
+-
+212.178.238.227
+0 1 0 44 0 0
+-
+dsl-197-245-144-80.voxdsl.co.za
+0 1 0 44 0 0
+-
+37.27.28.214
+0 1 0 44 0 0
+-
+117.239.105.234
+0 1 0 44 0 0
+-
+customer-gdl-236-185.megared.net.mx
+0 2 2 6230 0 0
+-
+ec2-54-161-247-124.compute-1.amazonaws.com
+0 18 16 687471 1 1439727158
+-
+cl-86-125-129-205.cablelink.mures.rdsnet.ro
+0 1 0 44 0 0
+-
+crawl-66-249-67-111.googlebot.com
+0 10 8 224919 3 1439969466
+/
+101.199.112.55
+0 22 22 992603 1 1439031898
+/
+123-2-154-173.static.dsl.dodo.com.au
+0 1 0 44 0 0
+-
+94.121.23.228
+0 1 0 44 0 0
+-
+host-static-92-115-22-155.moldtelecom.md
+0 2 1 2715 0 0
+-
+msnbot-157-55-39-89.search.msn.com
+0 1 1 20687 1 1439188600
+/
+crawl812.us.archive.org
+0 2 0 994 0 0
+-
+92.85.137.119
+0 1 0 44 0 0
+-
+185.35.62.11
+0 1 1 0 1 1438612185
+/
+client-200.121.157.20.speedy.net.pe
+0 35 34 1917938 1 1440191710
+/
+93-141-127-85.adsl.net.t-com.hr
+0 1 0 44 0 0
+-
+117.255.232.62
+0 2 2 6230 0 0
+-
+baiduspider-220-181-108-103.crawl.baidu.com
+0 8 8 328668 1 1439981309
+/
+baiduspider-220-181-108-107.crawl.baidu.com
+0 4 3 242894 1 1438753430
+/
+crawl-66-249-67-122.googlebot.com
+0 1 0 497 0 0
+-
+msnbot-207-46-13-132.search.msn.com
+0 3 3 74493 1 1439525481
+/
+sol-fttb.239.125.119.46.sovam.net.ua
+0 1 0 497 0 0
+-
+static-213-190-86-188.ipcom.comunitel.net
+0 1 0 44 0 0
+-
+bzq-84-108-30-145.cablep.bezeqint.net
+0 1 0 44 0 0
+-
+93-140-230-38.adsl.net.t-com.hr
+0 1 0 44 0 0
+-
+customer-31-185-23-49.com-com.it
+0 2 1 2715 0 0
+-
+msnbot-157-55-39-98.search.msn.com
+0 12 12 558120 1 1438991052
+/
+baiduspider-220-181-108-110.crawl.baidu.com
+0 5 5 150812 0 0
+-
+94-153-10-149-lvv.broadband.kyivstar.net
+0 1 0 497 0 0
+-
+baiduspider-220-181-108-114.crawl.baidu.com
+0 6 6 223486 0 0
+-
+71.75.49.60.jb02-home.tm.net.my
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-16.crawl.baidu.com
+0 2 1 21095 1 1439727962
+/
+baiduspider-220-181-108-118.crawl.baidu.com
+0 5 5 217048 0 0
+-
+5-15-184-170.residential.rdsnet.ro
+0 1 0 44 0 0
+-
+khi77.pie.net.pk
+0 1 0 44 0 0
+-
+justus.impium.de
+0 1 1 21382 1 1439560696
+/
+212.200.96.178
+0 1 0 44 0 0
+-
+212.156.56.62.static.turktelekom.com.tr
+0 1 0 44 0 0
+-
+crawl-192-99-107-188.meanpathbot.com
+0 1 0 497 0 0
+-
+msnbot-157-55-39-67.search.msn.com
+0 1 1 39792 1 1439631445
+/
+5.107.132.111
+0 1 0 44 0 0
+-
+atlantic626.dedicatedpanel.com
+0 3 1 22376 1 1439592870
+/
+msnbot-207-46-13-61.search.msn.com
+0 1 1 29613 1 1439733919
+/
+baiduspider-220-181-108-121.crawl.baidu.com
+0 4 3 31876 1 1439046609
+/
+baiduspider-123-125-71-23.crawl.baidu.com
+0 2 1 4858 1 1440292216
+/
+177-189-18-213.dsl.telesp.net.br
+0 38 37 1937501 1 1439916824
+/
+baiduspider-123-125-71-27.crawl.baidu.com
+0 1 1 906 0 0
+-
+static.vdc.vn
+0 1 0 497 0 0
+-
+cl-86-125-138-206.cablelink.mures.rdsnet.ro
+0 1 0 44 0 0
+-
+41.141.62.224
+0 1 0 44 0 0
+-
+85-20-166-66-static.albacom.net
+0 1 1 2671 0 0
+-
+adsl-59-138-192-81.adsl2.iam.net.ma
+0 1 0 44 0 0
+-
+95.180.43.157
+0 2 0 88 0 0
+-
+bzq-109-64-183-210.red.bezeqint.net
+0 1 0 44 0 0
+-
+79-115-60-1.rdsnet.ro
+0 1 0 44 0 0
+-
+94.61.48.251
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-30.crawl.baidu.com
+0 2 1 15708 1 1439242840
+/
+baiduspider-123-125-71-34.crawl.baidu.com
+0 3 2 110702 1 1439493595
+/
+111.13.102.7
+0 1 0 497 0 0
+-
+117.255.234.36
+0 2 1 2715 0 0
+-
+46-10-75-97.btc-net.bg
+0 1 0 44 0 0
+-
+94.59.173.163
+0 1 0 44 0 0
+-
+cpc72361-shef13-2-0-cust23.17-1.cable.virginm.net
+0 1 0 44 0 0
+-
+94.121.18.58
+0 1 0 44 0 0
+-
+41.67.141.34
+0 1 0 44 0 0
+-
+112.207.229.189.pldt.net
+0 1 0 44 0 0
+-
+171.224.22.2
+0 1 0 44 0 0
+-
+93-86-205-22.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+athedsl-214280.home.otenet.gr
+0 2 0 88 0 0
+-
+162-227-217-126.lightspeed.gdrpmi.sbcglobal.net
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-143.crawl.baidu.com
+0 2 2 62592 0 0
+-
+baiduspider-123-125-71-41.crawl.baidu.com
+0 1 0 0 1 1440398241
+/
+baiduspider-220-181-108-147.crawl.baidu.com
+0 2 2 173828 0 0
+-
+baiduspider-123-125-71-45.crawl.baidu.com
+0 1 1 47332 0 0
+-
+baiduspider-123-125-71-49.crawl.baidu.com
+0 2 2 38904 1 1440333568
+/
+msnbot-157-55-39-168.search.msn.com
+0 11 11 514028 1 1440186820
+/
+93-173-33-236.bb.netvision.net.il
+0 1 0 44 0 0
+-
+216-211-40-237.dynamic.tbaytel.net
+0 1 0 44 0 0
+-
+bd3edbf5.virtua.com.br
+0 20 19 914789 1 1439761066
+/
+baiduspider-123-125-71-106.crawl.baidu.com
+0 1 1 835 0 0
+-
+baiduspider-220-181-108-150.crawl.baidu.com
+0 2 2 78927 0 0
+-
+baiduspider-220-181-108-154.crawl.baidu.com
+0 3 3 118173 0 0
+-
+39.42.250.203
+0 1 1 403 0 0
+-
+baiduspider-220-181-108-158.crawl.baidu.com
+0 4 3 159469 1 1438487146
+/
+41.82.143.196
+0 1 0 44 0 0
+-
+41.189.162.22
+0 1 0 44 0 0
+-
+customer-gdl-230-10.megared.net.mx
+0 1 1 2671 0 0
+-
+researchscan321.eecs.umich.edu
+0 2 2 25573 1 1439976978
+/
+171.224.64.35
+0 1 0 44 0 0
+-
+182.18.216.124
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-113.crawl.baidu.com
+0 4 3 292204 0 0
+-
+baiduspider-123-125-71-117.crawl.baidu.com
+0 3 3 117974 0 0
+-
+179.252.45.247
+0 38 37 1937501 1 1439669504
+/
+mail.ical.com.uy
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-161.crawl.baidu.com
+0 3 2 93729 1 1439822524
+/
+119.94.103.211.static.pldt.net
+0 1 0 44 0 0
+-
+117.253.206.21
+0 2 2 6230 0 0
+-
+109-92-52-216.dynamic.isp.telekom.rs
+0 2 0 88 0 0
+-
+45.118.61.22
+0 1 0 44 0 0
+-
+msnbot-157-55-39-146.search.msn.com
+0 14 14 663264 1 1438990578
+/
+88.230.60.65.dynamic.ttnet.com.tr
+0 1 0 44 0 0
+-
+msnbot-157-55-39-186.search.msn.com
+0 2 2 48160 1 1439903975
+/
+211.194.116.162
+0 1 0 44 0 0
+-
+cpe-108-183-117-200.buffalo.res.rr.com
+0 1 0 44 0 0
+-
+dsl-197-245-144-174.voxdsl.co.za
+0 1 0 44 0 0
+-
+109.57.197.115.mobile.3.dk
+0 1 0 44 0 0
+-
+121.54.47.59
+0 1 0 44 0 0
+-
+rrcs-24-153-208-236.sw.biz.rr.com
+0 39 39 2423558 1 1438627342
+/
+171.224.75.169
+0 2 0 88 0 0
+-
+baiduspider-180-76-15-137.crawl.baidu.com
+0 21 11 217139 21 1440542658
+/
+baiduspider-123-125-71-70.crawl.baidu.com
+0 1 1 125694 0 0
+-
+79-114-220-69.rdsnet.ro
+0 1 0 44 0 0
+-
+dynamic.5.22.130.194.ccc.net.il
+0 1 0 44 0 0
+-
+45.64.13.86
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-176.crawl.baidu.com
+0 2 2 99403 1 1440261106
+/
+baiduspider-123-125-71-74.crawl.baidu.com
+0 3 3 75687 0 0
+-
+baiduspider-123-125-71-78.crawl.baidu.com
+0 1 0 497 0 0
+-
+c-67-176-111-74.hsd1.co.comcast.net
+0 2 0 88 0 0
+-
+msnbot-157-55-39-115.search.msn.com
+0 1 1 20687 1 1439863753
+/
+87.236.214.178
+0 1 1 21382 1 1440193567
+/
+host-207.192.199.82.ucom.am
+0 2 0 88 0 0
+-
+msnbot-157-55-39-195.search.msn.com
+0 13 13 628133 2 1438777288
+/
+191-22-40-46.dynamic.stcable.net
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-140.crawl.baidu.com
+0 23 14 333498 22 1440491833
+/
+baiduspider-180-76-15-144.crawl.baidu.com
+0 26 13 245869 23 1440542699
+/
+baiduspider-180-76-15-148.crawl.baidu.com
+0 24 15 322984 23 1440554032
+/
+baiduspider-123-125-71-81.crawl.baidu.com
+0 1 0 0 1 1440209147
+/
+baiduspider-220-181-108-183.crawl.baidu.com
+0 2 2 68714 1 1438675616
+/
+baiduspider-123-125-71-85.crawl.baidu.com
+0 6 6 71076 0 0
+-
+baiduspider-220-181-108-187.crawl.baidu.com
+0 3 3 211503 0 0
+-
+bzq-79-180-35-174.red.bezeqint.net
+0 2 0 88 0 0
+-
+ip545295c4.adsl-surfen.hetnet.nl
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-89.crawl.baidu.com
+0 1 1 7200 0 0
+-
+r167-56-107-15.dialup.adsl.anteldata.net.uy
+0 2 0 88 0 0
+-
+173-217-113-88-ntch.mid.dyn.suddenlink.net
+0 1 0 44 0 0
+-
+s01066872510b7f4e.ca.shawcable.net
+0 2 1 2715 0 0
+-
+baiduspider-180-76-15-151.crawl.baidu.com
+0 27 15 400404 26 1440527597
+/
+177-36-52-77.jknet.com.br
+0 16 15 649148 1 1440517199
+/
+unknown.maxonline.com.sg
+0 3 0 132 0 0
+-
+191.241.168.30
+0 15 14 596127 1 1439910992
+/
+baiduspider-180-76-15-155.crawl.baidu.com
+0 24 8 161122 24 1440502707
+/
+sol-fttb.84.154.118.46.sovam.net.ua
+0 48 24 65160 0 0
+-
+baiduspider-180-76-15-159.crawl.baidu.com
+0 18 8 164162 18 1440518087
+/
+baiduspider-123-125-71-92.crawl.baidu.com
+0 3 3 94187 0 0
+-
+79-101-176-124.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+179-197-97-33.user.veloxzone.com.br
+0 1 0 44 0 0
+-
+net109-93-245-109.dynamic.mbb.telenor.rs
+0 1 0 44 0 0
+-
+195-154-241-43.rev.poneytelecom.eu
+0 2 1 20683 1 1439954854
+/
+195-154-102-211.rev.poneytelecom.eu
+0 1 0 497 0 0
+-
+54021185.dsl.pool.telekom.hu
+0 1 0 44 0 0
+-
+crawl-66-249-73-242.googlebot.com
+0 4 0 994 2 1440022205
+/
+5.83.122.110
+0 1 1 403 0 0
+-
+baiduspider-180-76-15-162.crawl.baidu.com
+0 28 21 404855 28 1440515343
+/
+46.101.139.208
+0 1 1 21206 1 1440546774
+/
+212.178.242.17
+0 1 0 44 0 0
+-
+94.121.21.46
+0 1 0 44 0 0
+-
+msnbot-207-46-13-99.search.msn.com
+0 3 3 70762 1 1439322386
+/
+194.243.89.242
+0 2 2 6230 0 0
+-
+182.178.192.171
+0 1 0 44 0 0
+-
+41.141.94.230
+0 1 0 44 0 0
+-
+msnbot-157-55-39-102.search.msn.com
+0 1 0 497 0 0
+-
+msnbot-157-55-39-243.search.msn.com
+0 13 13 568952 2 1439882510
+/
+179.181.109.57.dynamic.adsl.gvt.net.br
+0 1 0 44 0 0
+-
+179.182.252.135.dynamic.adsl.gvt.net.br
+0 28 27 1103541 1 1439970699
+/
+89-119-226-26-static.albacom.net
+0 2 1 2715 0 0
+-
+baiduspider-220-181-108-76.crawl.baidu.com
+0 9 9 399949 0 0
+-
+197-88-112-177.dsl.mweb.co.za
+0 1 1 403 0 0
+-
+178-137-94-17-lvv.broadband.kyivstar.net
+0 38 19 51585 0 0
+-
+41.99.73.114
+0 1 0 44 0 0
+-
+186.118.65.39
+0 7 5 75383 1 1438751744
+/
+ip84.ip-178-33-36.eu
+0 1 1 21382 1 1439601045
+/
+no-rdns.free.clues.ro
+0 1 0 497 1 1440515485
+-
+220.181.132.199
+0 22 22 992603 1 1439550283
+/
+ppp-250-46.33-151.iol.it
+0 2 0 88 0 0
+-
+sol-fttb.116.115.118.46.sovam.net.ua
+0 46 23 62445 0 0
+-
+baiduspider-220-181-108-83.crawl.baidu.com
+0 3 3 223525 1 1439861975
+/
+122.206.190.86
+0 1 0 44 0 0
+-
+177.200.160.114
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-87.crawl.baidu.com
+0 4 4 174633 0 0
+-
+msnbot-157-55-39-191.search.msn.com
+0 1 0 497 0 0
+-
+5.30.91.98
+0 1 0 44 0 0
+-
+msnbot-207-46-13-77.search.msn.com
+0 2 1 30345 1 1439216421
+/
+crawl-192-99-107-129.meanpathbot.com
+0 2 0 497 1 1439431324
+/
+dhcp-195.net1.bg
+0 2 0 88 0 0
+-
+41.225.99.33
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-11.crawl.baidu.com
+0 23 17 309594 22 1440311635
+/
+50.118.189.23
+0 3 2 24133 1 1440547698
+/
+baiduspider-180-76-15-15.crawl.baidu.com
+0 28 17 305345 27 1440538404
+/
+baiduspider-180-76-15-19.crawl.baidu.com
+0 18 10 192716 18 1440473773
+/
+177-54-190-219.tpnet.psi.br
+0 2 1 21382 1 1439924494
+/
+baiduspider-220-181-108-90.crawl.baidu.com
+0 5 5 87838 0 0
+-
+atlantic381.dedicatedpanel.com
+0 3 2 43261 1 1439353781
+/
+baiduspider-220-181-108-94.crawl.baidu.com
+0 4 4 455401 0 0
+-
+node-103-51-148-176.alliancebroadband.in
+0 1 0 44 0 0
+-
+89.39.126.250
+0 4 0 176 0 0
+-
+89-119-142-62-static.albacom.net
+0 2 2 6230 0 0
+-
+5.134.65.213
+0 3 0 132 0 0
+-
+109.56.73.205.mobile.3.dk
+0 1 0 44 0 0
+-
+ec2-52-8-144-41.us-west-1.compute.amazonaws.com
+0 1 1 21382 1 1439824683
+/
+41.141.60.53
+0 1 1 403 0 0
+-
+baiduspider-180-76-15-22.crawl.baidu.com
+0 14 9 198529 13 1440434018
+/
+ns352473.ovh.net
+0 2 1 21382 1 1439676660
+/
+baiduspider-180-76-15-26.crawl.baidu.com
+0 14 8 154635 14 1440524529
+/
+google-proxy-66-249-82-165.google.com
+0 16 16 769152 0 0
+-
+39.44.50.78
+0 1 0 44 0 0
+-
+p57190-ipbffx02marunouchi.tokyo.ocn.ne.jp
+0 1 0 497 1 1440068122
+-
+researchscan258.eecs.umich.edu
+0 4 2 26025 3 1439407071
+/
+msnbot-207-46-13-135.search.msn.com
+0 17 16 773913 1 1438989469
+/
+190-78-143-37.dyn.dsl.cantv.net
+0 1 0 44 0 0
+-
+92.85.52.68
+0 1 0 44 0 0
+-
+crawl-66-249-69-70.googlebot.com
+0 35 30 646904 17 1440541914
+/
+ip5b43543f.dynamic.kabel-deutschland.de
+0 1 0 44 0 0
+-
+crawl-66-249-79-208.googlebot.com
+0 1 1 21095 0 0
+-
+94.121.23.28
+0 2 0 88 0 0
+-
+baiduspider-180-76-15-33.crawl.baidu.com
+0 15 10 196189 15 1440416211
+/
+baiduspider-180-76-15-8.crawl.baidu.com
+0 29 14 278649 27 1440149381
+/
+host-176-221-121-6.dynamic.mm.pl
+0 1 0 44 0 0
+-
+150-70-97-84.trendmicro.com
+0 1 0 0 1 1439676696
+/
+45.55.194.149
+0 1 1 21382 1 1438902214
+/
+crawl-66-249-79-111.googlebot.com
+0 3 3 42975 2 1440469894
+/
+177.133.220.78.dynamic.adsl.gvt.net.br
+0 1 0 44 0 0
+-
+79-113-249-88.rdsnet.ro
+0 1 0 44 0 0
+-
+crawl-192-99-107-158.meanpathbot.com
+0 2 0 497 1 1440126242
+/
+19-33-13-177.skybandalarga.com.br
+0 38 37 2167875 1 1439550999
+/
+182.185.20.167
+0 1 0 44 0 0
+-
+191-240-58-230.moc.mastercabo.com.br
+0 51 50 5339184 1 1439907212
+/
+87.68.255.156.adsl.012.net.il
+0 1 0 44 0 0
+-
+researchscan337.eecs.umich.edu
+0 3 3 64146 3 1439591636
+/
+researchscan377.eecs.umich.edu
+0 1 0 226 1 1439083814
+-
+41.193.160.42
+0 1 0 44 0 0
+-
+79-119-230-156.rdsnet.ro
+0 1 0 44 0 0
+-
+5.45.79.44
+0 3 0 1491 0 0
+-
+85.65.134.164.dynamic.barak-online.net
+0 1 0 44 0 0
+-
+93-86-120-12.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+79-118-9-163.rdsnet.ro
+0 2 0 88 0 0
+-
+197.249.47.198
+0 1 0 44 0 0
+-
+msnbot-157-55-39-79.search.msn.com
+0 4 4 95490 2 1439330374
+/
+msnbot-207-46-13-33.search.msn.com
+0 12 11 248567 0 0
+-
+kol-103.244.240.118.pmpl-broadband.net
+0 1 0 44 0 0
+-
+39.44.62.80
+0 1 0 44 0 0
+-
+msnbot-207-46-13-73.search.msn.com
+0 2 2 47701 1 1439893387
+/
+baiduspider-220-181-108-102.crawl.baidu.com
+0 8 8 246583 0 0
+-
+118.69.220.91
+0 2 0 88 0 0
+-
+77.126.30.149
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-106.crawl.baidu.com
+0 5 5 156742 0 0
+-
+79.126.238.0
+0 1 0 44 0 0
+-
+researchscan144.eecs.umich.edu
+0 1 1 21382 1 1438918260
+/
+178-221-86-194.dynamic.isp.telekom.rs
+0 1 1 403 0 0
+-
+crawl-66-249-65-63.googlebot.com
+0 6 4 114731 4 1440048576
+/
+94.203.228.32
+0 2 0 88 0 0
+-
+msnbot-157-55-39-88.search.msn.com
+0 2 2 69027 1 1439026630
+/
+62.120.128.83
+0 1 0 44 0 0
+-
+158.181.43.104
+0 1 0 44 0 0
+-
+tor-exit2-readme.puckey.org
+0 1 0 0 1 1439719680
+/
+baiduspider-220-181-108-113.crawl.baidu.com
+0 1 1 97607 0 0
+-
+93-142-154-129.adsl.net.t-com.hr
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-117.crawl.baidu.com
+0 4 4 166517 0 0
+-
+static.169.156.46.78.clients.your-server.de
+0 1 1 29613 1 1439020084
+/
+baiduspider-123-125-71-15.crawl.baidu.com
+0 1 1 1105 0 0
+-
+baiduspider-123-125-71-19.crawl.baidu.com
+0 1 1 21382 1 1440398242
+/
+86.98.112.222
+0 1 0 44 0 0
+-
+111.206.36.132
+0 1 1 264955 0 0
+-
+109.94.227.58
+0 1 0 44 0 0
+-
+fm-dyn-139-0-121-213.fast.net.id
+0 1 0 44 0 0
+-
+197.205.89.26
+0 1 1 21382 1 1439117223
+/
+078088042086.warka.vectranet.pl
+0 1 0 44 0 0
+-
+111.206.36.138
+0 2 2 14778 0 0
+-
+ppp-110-168-232-105.revip5.asianet.co.th
+0 1 0 44 0 0
+-
+census7.shodan.io
+0 3 1 22376 1 1440143834
+/
+139.195.16.159
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-120.crawl.baidu.com
+0 2 2 5963 0 0
+-
+msnbot-207-46-13-91.search.msn.com
+0 10 9 256832 0 0
+-
+c-73-217-121-151.hsd1.co.comcast.net
+0 3 0 132 0 0
+-
+195-154-157-47.rev.poneytelecom.eu
+0 5 4 81742 1 1438999647
+/
+baiduspider-123-125-71-22.crawl.baidu.com
+0 2 2 36207 0 0
+-
+d51a53220.access.telenet.be
+0 2 1 2715 0 0
+-
+mail.zbporn.com
+0 2 0 0 2 1439247716
+/
+88.224.84.99.dynamic.ttnet.com.tr
+0 1 0 497 1 1439858166
+-
+baiduspider-123-125-71-26.crawl.baidu.com
+0 1 1 906 0 0
+-
+195-154-146-225.rev.poneytelecom.eu
+0 3 3 63618 3 1439326524
+/
+111.206.36.140
+0 1 1 112121 0 0
+-
+host86-132-211-39.range86-132.btcentralplus.com
+0 2 1 21879 1 1439067602
+/
+90.148.93.13.dynamic.saudi.net.sa
+0 1 0 44 0 0
+-
+82.166.23.4
+0 1 0 44 0 0
+-
+ns3280114.ovh.net
+0 2 1 21206 1 1439676662
+/
+196-210-76-216.dynamic.isadsl.co.za
+0 1 0 44 0 0
+-
+h99-73.fcsrv.net
+0 2 1 21206 1 1439211328
+/
+hst-225-182.splius.lt
+0 38 37 1937501 1 1440160422
+/
+hotch.idfnv.net
+0 3 0 1491 0 0
+-
+msnbot-207-46-13-60.search.msn.com
+0 3 3 75360 1 1439237739
+/
+msnbot-157-55-39-109.search.msn.com
+0 1 0 497 0 0
+-
+89-70-15-133.dynamic.chello.pl
+0 5 0 220 0 0
+-
+msnbot-157-55-39-149.search.msn.com
+0 1 1 20687 1 1439865459
+/
+baiduspider-220-181-108-139.crawl.baidu.com
+0 3 3 48126 1 1439950595
+/
+ajax.dewahost.net
+0 1 1 10213 1 1439951920
+/
+msnbot-157-55-39-189.search.msn.com
+0 6 6 232690 1 1439028076
+/
+bzq-79-177-215-219.red.bezeqint.net
+0 1 0 44 0 0
+-
+2.50.173.65
+0 4 0 176 0 0
+-
+www.probethenet.com
+0 2 1 21382 1 1440055147
+/
+crawl-66-249-75-107.googlebot.com
+0 6 0 1491 3 1439029054
+/
+r179-25-22-97.dialup.adsl.anteldata.net.uy
+0 1 0 44 0 0
+-
+117.195.245.187
+0 22 21 991697 1 1440391521
+/
+82.166.23.17
+0 1 0 44 0 0
+-
+186.214.175.165.static.host.gvt.net.br
+0 1 0 44 0 0
+-
+79-119-23-91.rdsnet.ro
+0 1 0 44 0 0
+-
+185.76.71.67
+0 3 0 132 0 0
+-
+baiduspider-220-181-108-142.crawl.baidu.com
+0 3 3 185702 0 0
+-
+b3d2830b.virtua.com.br
+0 55 54 6118799 1 1439820926
+/
+210.195.26.224
+0 1 0 44 0 0
+-
+89.248.171.253
+0 1 1 42 0 0
+-
+wtl.worldcall.net.pk
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-146.crawl.baidu.com
+0 4 2 126749 2 1439701388
+/
+baiduspider-123-125-71-44.crawl.baidu.com
+0 2 2 29022 1 1440292218
+/
+baiduspider-123-125-71-48.crawl.baidu.com
+0 1 1 15708 0 0
+-
+c-24-34-99-60.hsd1.ma.comcast.net
+0 2 0 452 1 1440299514
+/
+host-190-130-221-226.ecutel.net.ec
+0 1 0 44 0 0
+-
+103.249.240.196
+0 2 0 88 0 0
+-
+197.250.130.88
+0 1 0 44 0 0
+-
+115.132.254.169
+0 1 1 2671 0 0
+-
+178-221-88-53.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-109.crawl.baidu.com
+0 2 2 116754 0 0
+-
+189-11-81-88.ctame700.dsl.brasiltelecom.net.br
+0 2 1 21382 1 1440243484
+/
+41.176.168.141
+0 1 0 44 0 0
+-
+msnbot-157-55-39-84.search.msn.com
+0 14 12 724229 1 1439026640
+/
+baiduspider-220-181-108-153.crawl.baidu.com
+0 1 1 7640 0 0
+-
+baiduspider-220-181-108-157.crawl.baidu.com
+0 3 3 99419 0 0
+-
+baiduspider-123-125-71-55.crawl.baidu.com
+0 1 1 7640 0 0
+-
+109-93-86-239.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+101.199.108.55
+0 23 23 997461 1 1439802280
+/
+101.199.108.56
+0 23 23 997461 1 1439982292
+/
+88.255.137.194.dynamic.ttnet.com.tr
+0 2 0 88 0 0
+-
+198.105.10.70
+0 69 68 4446103 1 1440017824
+/
+baiduspider-123-125-71-112.crawl.baidu.com
+0 2 2 39599 1 1438921065
+/
+79-118-184-8.rdsnet.ro
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-116.crawl.baidu.com
+0 3 3 261018 0 0
+-
+86-125-206-33.rdsnet.ro
+0 1 0 44 0 0
+-
+117.253.232.111
+0 2 2 6230 0 0
+-
+ba.rdnsblkbab.dns-srv.com
+0 3 2 42764 2 1440182679
+/
+baiduspider-220-181-108-160.crawl.baidu.com
+0 2 2 13852 0 0
+-
+static-host-202-81-165-82.b2b.com.ph
+0 2 0 88 0 0
+-
+h-109-95-75-86.st-net.ru
+0 8 0 3976 1 1439212880
+-
+197-88-22-213.dsl.mweb.co.za
+0 1 0 44 0 0
+-
+36.85.212.101
+0 1 0 44 0 0
+-
+msnbot-157-55-39-176.search.msn.com
+0 4 3 63857 2 1438499035
+/
+151-239-201-254.shatel.ir
+0 1 0 44 0 0
+-
+109.76.88.177
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-136.crawl.baidu.com
+0 21 16 300487 21 1440325880
+/
+178-221-1-52.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+host206-71-static.21-80-b.business.telecomitalia.it
+0 2 1 2715 0 0
+-
+baiduspider-123-125-71-73.crawl.baidu.com
+0 2 2 30605 1 1438963453
+/
+baiduspider-123-125-71-77.crawl.baidu.com
+0 2 2 19052 0 0
+-
+baiduspider-220-181-108-179.crawl.baidu.com
+0 4 4 88782 0 0
+-
+msnbot-157-55-39-206.search.msn.com
+0 1 1 24792 1 1439322416
+/
+79-118-186-220.rdsnet.ro
+0 1 0 44 0 0
+-
+netherfield.didici.be
+0 6 5 183015 1 1440344562
+/
+93-139-207-188.adsl.net.t-com.hr
+0 2 0 88 0 0
+-
+39.32.224.70
+0 1 1 403 0 0
+-
+185.3.72.146
+0 2 1 2715 0 0
+-
+178.204.88.236
+0 8 0 3976 1 1439153056
+-
+host-91.187.214-242.static.intred.it
+0 30 29 1108442 1 1439793294
+/
+baiduspider-180-76-15-143.crawl.baidu.com
+0 19 12 257386 19 1440506199
+/
+adsl.viettel.vn
+0 2 0 88 0 0
+-
+185.7.158.111
+0 2 1 2715 0 0
+-
+baiduspider-180-76-15-147.crawl.baidu.com
+0 15 7 137222 14 1440437889
+/
+baiduspider-123-125-71-80.crawl.baidu.com
+0 3 3 138136 1 1439058661
+/
+baiduspider-220-181-108-182.crawl.baidu.com
+0 2 2 14001 0 0
+-
+ec2-23-22-131-24.compute-1.amazonaws.com
+0 1 1 21382 1 1440542697
+/
+crawl-66-249-75-99.googlebot.com
+0 5 0 497 4 1439087305
+/
+121-98-132-141.bng1.nct.orcon.net.nz
+0 1 0 44 0 0
+-
+c-69-139-54-42.hsd1.fl.comcast.net
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-186.crawl.baidu.com
+0 1 1 21382 1 1439656917
+/
+baiduspider-123-125-71-84.crawl.baidu.com
+0 5 3 171509 1 1438921063
+/
+msnbot-157-55-39-71.search.msn.com
+0 1 0 497 0 0
+-
+baiduspider-123-125-71-88.crawl.baidu.com
+0 2 2 100063 1 1440118177
+/
+78-4-161-130-static.albacom.net
+0 1 1 2671 0 0
+-
+d54c47d1a.access.telenet.be
+0 4 0 176 0 0
+-
+42.0.5.103
+0 1 1 403 0 0
+-
+msnbot-157-55-39-215.search.msn.com
+0 2 1 59840 1 1440447559
+/
+m212-96-77-222.cust.tele2.kz
+0 1 0 497 0 0
+-
+crawl-66-249-64-144.googlebot.com
+0 8 7 64750 2 1440339694
+/
+ns503639.ip-192-99-150.net
+0 3 3 0 3 1440043597
+/
+rrcs-208-125-126-162.nys.biz.rr.com
+0 2 0 452 1 1439460761
+/
+92.84.243.254
+0 2 0 88 0 0
+-
+baiduspider-180-76-15-150.crawl.baidu.com
+0 15 12 217689 14 1440494943
+/
+107.77.97.56
+0 43 43 2726017 1 1439427446
+/
+crawl-66-249-67-105.googlebot.com
+0 9 7 104695 5 1439974893
+/wp-content/themes/enfold/framework/
+92.84.178.78
+0 1 0 44 0 0
+-
+211.37.9.91
+0 2 1 2715 0 0
+-
+217.55.97.69
+0 1 1 403 0 0
+-
+baiduspider-180-76-15-154.crawl.baidu.com
+0 29 13 286373 28 1440552070
+/
+baiduspider-180-76-15-158.crawl.baidu.com
+0 18 9 179484 17 1440549326
+/
+109.56.189.7.mobile.3.dk
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-91.crawl.baidu.com
+0 4 4 268600 0 0
+-
+msnbot-157-55-39-40.search.msn.com
+0 2 2 51665 2 1439019031
+/
+213.33.108.30
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-161.crawl.baidu.com
+0 23 11 276403 19 1440518118
+/
+bl9-207-51.dsl.telepac.pt
+0 38 37 1937501 1 1439393594
+/
+121.54.54.53
+0 1 0 44 0 0
+-
+178-137-80-99-lvv.broadband.kyivstar.net
+0 70 35 95025 0 0
+-
+tor1e1.privacyfoundation.ch
+0 1 0 0 1 1439560694
+/
+41.141.147.127
+0 1 0 44 0 0
+-
+60.53.66.83
+0 1 0 44 0 0
+-
+hn.kd.ny.adsl
+0 16 15 321227 14 1440426803
+/
+82.166.23.81
+0 1 0 44 0 0
+-
+ip-176-195-195-114.bb.netbynet.ru
+0 2 1 21206 1 1439694594
+/
+baiduspider-220-181-108-75.crawl.baidu.com
+0 10 9 141623 1 1439970647
+/
+93-87-159-241.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+msnbot-207-46-13-18.search.msn.com
+0 12 11 517905 1 1439844792
+/
+92.85.53.120
+0 1 0 44 0 0
+-
+hlr-225-45.tm.net.my
+0 1 0 44 0 0
+-
+crawl-66-249-65-60.googlebot.com
+0 8 5 125266 3 1440046874
+/
+182.185.159.46
+0 1 0 44 0 0
+-
+179.179.106.173.dynamic.adsl.gvt.net.br
+0 1 0 44 0 0
+-
+39.50.247.77
+0 1 0 44 0 0
+-
+79-101-185-244.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+centro-43.grapeshot.co.uk
+0 1 1 21382 1 1440133020
+/
+179-111-38-200.dsl.telesp.net.br
+0 1 0 44 0 0
+-
+119.94.102.16.static.pldt.net
+0 1 0 44 0 0
+-
+msnbot-207-46-13-107.search.msn.com
+0 2 2 82343 1 1439891566
+/
+46.148.18.122
+0 3 1 22376 1 1439725753
+-
+msnbot-157-55-39-202.search.msn.com
+0 19 18 751728 2 1438776829
+/
+95.27.43.83
+0 37 36 1890169 1 1440183536
+/
+baiduspider-220-181-108-82.crawl.baidu.com
+0 4 4 262066 0 0
+-
+crawl-66-249-79-220.googlebot.com
+0 8 7 244798 0 0
+-
+host-199.73.63.166.dynamic.dekalwireless.net
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-86.crawl.baidu.com
+0 7 7 420935 0 0
+-
+82.166.23.97
+0 1 0 44 0 0
+-
+x4db68006.dyn.telefonica.de
+0 25 24 1031610 1 1439983200
+/
+77.36.80.118
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-10.crawl.baidu.com
+0 21 13 231571 20 1440546014
+/
+baiduspider-180-76-15-14.crawl.baidu.com
+0 13 8 137911 12 1440350621
+/
+bzq-109-67-208-3.red.bezeqint.net
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-18.crawl.baidu.com
+0 19 11 189813 18 1440481128
+/
+y.com
+0 1 0 0 1 1439347271
+/
+static.84.229.104.190.cps.com.ar
+0 1 0 44 0 0
+-
+ip-140-219.oxygen.id
+0 2 0 88 0 0
+-
+msnbot-157-55-39-211.search.msn.com
+0 4 4 99882 1 1439891577
+/
+baiduspider-220-181-108-93.crawl.baidu.com
+0 7 6 441501 1 1440069005
+/
+msnbot-157-55-39-110.search.msn.com
+0 4 4 116564 2 1439387461
+/
+msnbot-157-55-39-251.search.msn.com
+0 1 1 29613 1 1440316210
+/
+node-46s.pool-1-1.dynamic.totbb.net
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-97.crawl.baidu.com
+0 3 3 325437 0 0
+-
+31.47.7.143
+0 1 0 44 0 0
+-
+91a196b50c33.greendata.pl
+0 1 0 497 0 0
+-
+91.186.244.243
+0 1 0 44 0 0
+-
+79-112-159-25.rdsnet.ro
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-21.crawl.baidu.com
+0 18 6 117209 16 1440092131
+/
+61.135.190.219
+0 20 20 870821 2 1439914623
+/
+39.42.32.174
+0 1 0 44 0 0
+-
+41-133-44-91.dsl.mweb.co.za
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-25.crawl.baidu.com
+0 20 12 260444 19 1440427221
+/
+baiduspider-180-76-15-29.crawl.baidu.com
+0 15 7 143812 14 1440538380
+/
+183.233.206.91
+0 1 1 21382 1 1439369943
+/
+178-222-218-244.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+50.118.162.238
+0 1 0 44 0 0
+-
+89.219.218.76
+0 1 0 44 0 0
+-
+static.cmcti.vn
+0 1 0 44 0 0
+-
+89.43.213.6
+0 1 0 44 0 0
+-
+113.203.171.189
+0 1 0 44 0 0
+-
+61.135.190.224
+0 25 25 1065389 2 1439917970
+/
+crawl-66-249-69-78.googlebot.com
+0 22 20 613813 9 1439258281
+/
+188.51.192.219
+0 1 0 44 0 0
+-
+48.201.72.37.dynamic.sat.abo.nordnet.fr
+0 2 1 2715 0 0
+-
+baiduspider-180-76-15-32.crawl.baidu.com
+0 21 12 199676 21 1440384180
+/
+baiduspider-180-76-15-7.crawl.baidu.com
+0 17 9 204252 15 1440556992
+/
+45.64.13.156
+0 1 0 44 0 0
+-
+177-5-102-58.ecba-mt-rota-a01.ipd.brasiltelecom.net.br
+0 2 2 6230 0 0
+-
+sol-fttb.14.116.118.46.sovam.net.ua
+0 24 12 32580 0 0
+-
+34-227-105-218.north.dsl.telkomsa.net
+0 1 0 44 0 0
+-
+ppp109-252-11-77.pppoe.spdop.ru
+0 8 0 3976 1 1439220341
+-
+researchscan297.eecs.umich.edu
+0 1 0 226 1 1438497627
+-
+crawl-66-249-75-115.googlebot.com
+0 2 0 497 1 1438999984
+/
+92.96.156.53
+0 1 0 44 0 0
+-
+222.186.30.35
+0 4 4 73210 4 1439149869
+/
+89-119-201-22-static.albacom.net
+0 2 1 2715 0 0
+-
+113.ip-5-196-14.eu
+0 2 1 2715 0 0
+-
+crawl-192-99-107-157.meanpathbot.com
+0 1 1 21382 1 1440126243
+/
+112.210.226.95.pldt.net
+0 1 0 44 0 0
+-
+178.160.233.118
+0 1 0 44 0 0
+-
+16.246.telone.co.zw
+0 1 0 44 0 0
+-
+191-17-85-4.user.vivozap.com.br
+0 8 7 291150 1 1439984813
+/
+1.55.237.247
+0 1 0 44 0 0
+-
+bzq-69-168-31-70.red.bezeqint.net
+0 1 0 44 0 0
+-
+119.9.15.122
+0 1 1 42 0 0
+-
+77.127.233.159
+0 1 0 44 0 0
+-
+anonymous.tor.relay
+0 1 1 21382 1 1439719688
+/
+customer-gdl-171-141.megared.net.mx
+0 2 1 2715 0 0
+-
+cl084021123057.unet.cz
+0 2 0 88 0 0
+-
+msnbot-157-55-39-69.search.msn.com
+0 10 10 502538 1 1440186799
+/
+79-118-248-140.pitesti.rdsnet.ro
+0 1 0 44 0 0
+-
+public726958.centertel.pl
+0 2 2 6230 0 0
+-
+196-210-50-194.dynamic.isadsl.co.za
+0 1 0 44 0 0
+-
+94.204.100.199
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-101.crawl.baidu.com
+0 5 4 179129 1 1438675615
+/
+89-119-25-210-static.albacom.net
+0 2 2 6230 0 0
+-
+79-101-140-230.dynamic.isp.telekom.rs
+0 1 0 44 0 0
+-
+static.68.48.4.46.clients.your-server.de
+0 1 1 21382 1 1440121724
+/
+www.whois.sc
+0 4 2 43406 2 1440095899
+/
+baiduspider-220-181-108-105.crawl.baidu.com
+0 5 5 358707 1 1439462123
+/
+94-227-120-209.access.telenet.be
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-109.crawl.baidu.com
+0 4 4 320312 0 0
+-
+200-206-128-16.dsl.telesp.net.br
+0 38 37 1937501 1 1440363386
+/
+109.98.35.19
+0 2 0 88 0 0
+-
+178.79.34.73
+0 1 0 44 0 0
+-
+146.185.239.100
+0 1 0 0 1 1438702645
+/
+201.247.217.163
+0 1 0 44 0 0
+-
+58.23.13.241
+0 69 69 4476621 1 1439021965
+/
+2.51.132.219
+0 3 0 132 0 0
+-
+119.147.146.189
+0 5 4 145771 1 1440414500
+/
+baiduspider-220-181-108-112.crawl.baidu.com
+0 6 6 225725 1 1439160579
+/
+185.44.77.193
+0 1 0 497 0 0
+-
+baiduspider-220-181-108-116.crawl.baidu.com
+0 5 5 222062 0 0
+-
+baiduspider-123-125-71-14.crawl.baidu.com
+0 5 4 117776 0 0
+-
+google-proxy-66-249-82-161.google.com
+0 7 7 597875 0 0
+-
+researchscan345.eecs.umich.edu
+0 3 3 46955 2 1438992091
+/
+baiduspider-123-125-71-18.crawl.baidu.com
+0 2 2 323583 0 0
+-
+113.203.174.88
+0 1 0 44 0 0
+-
+121.54.44.90
+0 1 0 44 0 0
+-
+201-211-31-187.genericrev.cantv.net
+0 2 0 88 0 0
+-
+220.181.132.216
+0 5 5 100692 5 1439982245
+/
+94.121.17.67
+0 1 0 44 0 0
+-
+121.54.44.95
+0 1 0 44 0 0
+-
+119.147.146.193
+0 4 4 145771 1 1438951611
+/
+94.176.40.22
+0 1 0 44 0 0
+-
+57.64.uzpak.uz
+0 1 0 497 1 1439858167
+-
+119.147.146.194
+0 5 3 138571 2 1439640094
+/
+brk-186-210.tm.net.my
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-123.crawl.baidu.com
+0 6 6 110936 1 1440069010
+/
+baiduspider-123-125-71-25.crawl.baidu.com
+0 1 1 125694 0 0
+-
+researchscan314.eecs.umich.edu
+0 4 2 26025 3 1440053960
+-
+94.121.17.74
+0 1 0 44 0 0
+-
+ip4da343fa.direct-adsl.nl
+0 1 0 44 0 0
+-
+crawl-66-249-64-249.googlebot.com
+0 2 0 497 1 1440339688
+/
+researchscan152.eecs.umich.edu
+0 2 2 42764 2 1438914671
+/
+host254-201-dynamic.20-79-r.retail.telecomitalia.it
+0 39 38 1937544 1 1439647596
+/
+msnbot-157-55-39-56.search.msn.com
+0 2 2 221799 0 0
+-
+host-116-150.mt.pl
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-32.crawl.baidu.com
+0 1 1 7200 0 0
+-
+bba574921.alshamil.net.ae
+0 2 1 447 0 0
+-
+baiduspider-123-125-71-36.crawl.baidu.com
+0 2 2 3506 0 0
+-
+d53-64-74-213.nap.wideopenwest.com
+0 1 0 44 0 0
+-
+182.184.109.100
+0 1 0 44 0 0
+-
+adsl-72-50-81-217.prtc.net
+0 1 0 44 0 0
+-
+175.202.185.45
+0 2 0 88 0 0
+-
+static-71-177-184-59.lsanca.fios.verizon.net
+0 1 0 497 0 0
+-
+69.58.178.57
+0 14 12 383177 1 1439995393
+/
+142-165-177-220.umts.static.sasknet.sk.ca
+0 2 1 2715 0 0
+-
+host45-67-static.195-31-b.business.telecomitalia.it
+0 2 2 6230 0 0
+-
+94.176.40.43
+0 1 0 44 0 0
+-
+h.moreover.com
+0 2 2 40734 1 1440541914
+/
+cpe-90-157-180-182.static.amis.net
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-141.crawl.baidu.com
+0 2 2 149483 1 1438480470
+/
+modemcable021.188-201-24.mc.videotron.ca
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-145.crawl.baidu.com
+0 3 2 26910 2 1439701390
+/
+baiduspider-123-125-71-43.crawl.baidu.com
+0 1 0 0 1 1438944814
+/
+hawk963.dedicatedpanel.com
+0 2 0 994 2 1439511175
+-
+baiduspider-123-125-71-47.crawl.baidu.com
+0 2 2 123483 0 0
+-
+baiduspider-220-181-108-149.crawl.baidu.com
+0 2 2 179013 0 0
+-
+researchscan433.eecs.umich.edu
+0 1 0 226 1 1439444745
+-
+msnbot-157-55-39-188.search.msn.com
+0 1 1 47863 1 1439339760
+/
+host-217-131-125-88.reverse.superonline.net
+0 1 0 44 0 0
+-
+bzq-79-177-192-71.red.bezeqint.net
+0 1 0 44 0 0
+-
+adsl-108-206-189-40.dsl.rcsntx.sbcglobal.net
+0 87 51 3367174 1 1439768541
+/
+80.178.8.197.adsl.012.net.il
+0 2 0 88 0 0
+-
+92.253.6.190
+0 1 0 44 0 0
+-
+176.223.45.136
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-108.crawl.baidu.com
+0 4 3 170815 1 1439058659
+/
+182.181.183.81
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-152.crawl.baidu.com
+0 4 4 253596 0 0
+-
+baiduspider-123-125-71-50.crawl.baidu.com
+0 4 2 50795 3 1439452603
+/
+202.179.189.229
+0 1 0 44 0 0
+-
+93.113.125.11
+0 1 0 497 1 1440176986
+-
+92.83.88.218
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-156.crawl.baidu.com
+0 1 1 13095 0 0
+-
+baiduspider-123-125-71-54.crawl.baidu.com
+0 3 3 49899 1 1438613064
+/
+43.245.235.2.deltainfocom.com
+0 1 0 44 0 0
+-
+msnbot-157-55-39-117.search.msn.com
+0 5 5 198141 1 1439238073
+/
+46.233.11.247
+0 1 0 44 0 0
+-
+mm-120-10-126-178.vitebsk.dynamic.pppoe.byfly.by
+0 1 0 44 0 0
+-
+201.247.15.92
+0 1 0 44 0 0
+-
+researchscan402.eecs.umich.edu
+0 2 0 452 2 1439270149
+-
+31.223.145.206
+0 1 0 44 0 0
+-
+sol-fttb.216.155.118.46.sovam.net.ua
+0 1 0 497 0 0
+-
+39.32.109.200
+0 1 1 403 0 0
+-
+baiduspider-123-125-71-111.crawl.baidu.com
+0 2 1 126191 0 0
+-
+c-50-177-200-87.hsd1.ma.comcast.net
+0 4 2 42412 2 1439689143
+/
+bzq-109-65-62-202.red.bezeqint.net
+0 1 0 44 0 0
+-
+baiduspider-123-125-71-115.crawl.baidu.com
+0 5 4 245580 0 0
+-
+77.28.3.255
+0 1 0 44 0 0
+-
+182.185.152.40
+0 1 0 44 0 0
+-
+39.44.91.221
+0 1 0 44 0 0
+-
+79-115-85-197.rdsnet.ro
+0 1 0 44 0 0
+-
+baiduspider-220-181-108-163.crawl.baidu.com
+0 4 4 254194 0 0
+-
+190-204-52-167.dyn.dsl.cantv.net
+0 1 0 44 0 0
+-
+85.207.93.54
+0 1 0 44 0 0
+-
+1.32.70.4
+0 1 0 44 0 0
+-
+123.160.227.52
+0 81 81 4650607 1 1439243202
+/
+msnbot-157-55-39-166.search.msn.com
+0 21 21 890527 2 1438777127
+/
+89.123.109.1
+0 1 0 44 0 0
+-
+static-208-80-194-120.as13448.com
+0 1 0 0 1 1440288881
+/
+180.191.79.248
+0 1 0 44 0 0
+-
+178-137-137-223-broadband.kyivstar.net
+0 2 1 2715 0 0
+-
+109.56.115.194.mobile.3.dk
+0 1 0 44 0 0
+-
+bzq-79-178-136-247.red.bezeqint.net
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-135.crawl.baidu.com
+0 29 14 369809 27 1440435295
+/
+web16.majordomo.ru
+0 1 0 497 1 1440251331
+-
+msnbot-157-55-39-12.search.msn.com
+0 14 14 660483 2 1440485500
+/
+46.19.21.106
+0 2 1 21206 2 1439808549
+/
+46-212-114.adsl.cyta.gr
+0 1 0 44 0 0
+-
+baiduspider-180-76-15-139.crawl.baidu.com
+0 31 19 374437 30 1440488412
+/
+baiduspider-123-125-71-72.crawl.baidu.com
+0 2 2 22052 0 0
+-
+95-42-249-150.btc-net.bg
+0 1 0 44 0 0
+-
+208.184.112.74.available
+0 1 0 0 1 1439676053
+/
+baiduspider-220-181-108-178.crawl.baidu.com
+0 3 3 211213 0 0
+-
+baiduspider-123-125-71-76.crawl.baidu.com
+0 2 2 26190 0 0
+-
+node-urh.pool-125-25.dynamic.totbb.net
+0 1 0 44 0 0
+-
+79-118-59-23.rdsnet.ro
+0 1 0 44 0 0
+-
+119.192.249.44
+0 1 0 44 0 0
+-
+msnbot-157-55-39-175.search.msn.com
+0 5 4 160121 1 1440020088
+/
+92.83.121.168
+0 1 0 44 0 0
+-
+dsl-pool128.sodetel.net.lb
+0 1 0 44 0 0
+-
+207.90.2.9
+0 24 12 256584 12 1440543514
+/
+crawl-66-249-79-105.googlebot.com
+0 2 2 22139 1 1440489800
+/
+baiduspider-180-76-15-142.crawl.baidu.com
+0 24 10 255641 23 1440452155
+/
+195-154-237-92.rev.poneytelecom.eu
+0 2 1 20683 1 1438569280
+/
+109.72.59.170
+0 1 0 44 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+baiduspider-180-76-15-157.crawl.baidu.com
+0 1 1 20233 1 1440549298
+/
+baiduspider-180-76-15-17.crawl.baidu.com
+0 1 0 0 1 1440554009
+/
+baiduspider-180-76-15-31.crawl.baidu.com
+0 1 0 0 1 1440552068
+/
+sol-fttb.176.158.118.46.sovam.net.ua
+0 2 1 2715 0 0
+-
+baiduspider-180-76-15-9.crawl.baidu.com
+0 1 1 10213 1 1440556960
+/
+39.42.250.203
+0 1 1 403 0 0
+-
+baiduspider-180-76-15-148.crawl.baidu.com
+0 1 0 0 1 1440554032
+/
+50.118.189.23
+0 3 2 24133 1 1440547698
+/
+baiduspider-180-76-15-15.crawl.baidu.com
+0 1 1 757 0 0
+-
+baiduspider-180-76-15-154.crawl.baidu.com
+0 1 1 21382 1 1440552070
+/
+baiduspider-180-76-15-158.crawl.baidu.com
+0 1 1 20233 1 1440549326
+/
+baiduspider-180-76-15-7.crawl.baidu.com
+0 1 1 20233 1 1440556992
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://videos-for-your-business.com
+0 2
+http://success-seo.com/try.php
+0 39
+http://video--production.com
+0 2
+http://www.cpheduglobal.com/wp-admin/
+1 1
+- (Direct Request)
+0 3504
+http://whois.domaintools.com/cpheduglobal.com
+1 2
+http://www.haosou.com/link
+0 1
+http://cpheduglobal.com/wp-login.php
+1 1
+http://google.com/search
+0 2
+http://www.cpheduglobal.com/wp-content/plugins/crms2.php
+1 1
+http://www.cpheduglobal.com/wp-admin/import.php
+1 2
+http://localhost/www/myYii2/basic/web/index.php/site/login
+0 9
+http://www.cpheduglobal.com/readme.html
+1 3
+http://yandex.ru/clck/jsredir
+0 4
+http://cpheduglobal.com/wp-admin/includes/images.php
+1 1
+http://hundejo.com/
+0 2
+http://domainsigma.com/whois/www.cpheduglobal.com
+1 3
+http://www.cpheduglobal.com/wp-admin/user-edit.php
+1 11
+http://www.cpheduglobal.com/wp-admin/post-new.php
+1 88
+http://www.cpheduglobal.com/wp-admin/tools.php
+1 1
+http://cpheduglobal.com/xmlrpc.php
+1 1
+http://localhost/www/myYii2/basic/web/index.php/site/index
+0 1
+http://mail.qq.com/cgi-bin/readtemplate
+0 4
+http://localhost/www/myYii2/basic/web/team.htm
+0 58
+http://cpheduglobal.com/wp-admin/includes/image-import.php
+1 1
+http://www.cpheduglobal.com/wp-contentsss.php
+1 1
+http://www.cpheduglobal.com/wp-admin/css/install.css
+1 1
+http://hvd-store.com/
+0 2
+http://serw.clicksor.com/redir.php
+0 2
+https://www.google.ca/
+0 1
+http://www.cpheduglobal.com/wp-admin/load-styles.php
+1 3
+http://www.cpheduglobal.com/wp-login.php
+1 11
+http://cpheduglobal.com/wp-admin/maint/index.php
+1 1
+http://www.cpheduglobal.com/robots.txt
+1 2
+http://localhost/www/myYii2/basic/web/index
+0 1
+http://localhost/www/myYii2/basic/web/home.htm
+0 228
+http://cpheduglobal.com/wp-content/plugins/revslider/
+1 1
+http://www.cpheduglobal.com/wp-admin/post.php
+1 113
+http://www.bing.com
+0 1
+http://www.cpheduglobal.com/wp-admin/edit.php
+1 18
+http://www.cpheduglobal.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/css/avia-builder.css
+1 12
+http://cpheduglobal.com/wp-includes/pomo/index.php
+1 1
+http://www.cpheduglobal.com/wp-admin/index.php
+1 12
+http://www.cpheduglobal.com/wp-admin/update-core.php
+1 6
+http://localhost/www/myYii2/basic/web/index.php/site/about
+0 2
+http://burger-imperia.com/
+0 2
+http://www.cpheduglobal.com/wp-admin/upload.php
+1 15
+http://localhost/www/myYii2/basic/web/index.php
+0 3
+http://localhost/www/myYii2/basic/web/program.htm
+0 27
+http://buttons-for-website.com
+0 8
+http://www.cpheduglobal.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/css/avia-modal.css
+1 1
+http://localhost/www/myYii2/basic/web/testimonial.htm
+0 29
+http://www.cpheduglobal.com/wp-admin/profile.php
+1 1
+http://localhost/www/myYii2/basic/web/aboutus.htm
+0 27
+http://www.cpheduglobal.com/wp-contents.php
+1 1
+http://www.netcraft.com/survey/
+0 1
+http://www.cpheduglobal.com/wp-content/themes/enfold/config-layerslider/LayerSlider/static/skins/fullwidth/skin.css
+1 6
+http://cpheduglobal.com/
+1 134
+http://www.cpheduglobal.com/wp-admin/users.php
+1 3
+http://www.baidu.com/s
+0 4
+http://www.cpheduglobal.com/
+1 2347
+http://www.cpheduglobal.com
+1 1
+http://www.cpheduglobal.com/wp-content/themes/enfold/css/layout.css
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 1725
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 81
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 4
+Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI MT7-TL10 Build/HuaweiMT7-TL10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 52
+viralvideochart.unrulymedia.com vvcscanner@unrulymedia.com
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+0 39
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .
+0 1
+Mozilla/5.0 (compatible; XoviBot/2.0; +http://www.xovibot.net/)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
+0 39
+Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133
+0 55
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 2
+Mozilla
+0 10
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.16) Gecko/20110319 Firefox/40
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 2
+=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+0 24
+\"nlpproject.info research\"
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:14.0) Gecko/20100101 Firefox/14.0.1
+0 2
+Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+0 173
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2251.0 Safari/537.36
+0 13
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+0 1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.35 (KHTML, like Gecko) Ubuntu/10.10 Chromium/13.0.764.0 Chrome/13.0.764.0 Safar
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:29.0) Gecko/20100101 Firefox/29.0
+0 472
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 1
+x00_-gawa.sa.pilipinas.2015
+0 7
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+0 418
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 41
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/
+0 26
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 28
+Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+0 1
+Mozilla/5.0 Moreover/5.1 (+http://www.moreover.com; webmaster@moreover.com)
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 191
+Mozilla/5.0 zgrab/0.x
+0 15
+Googlebot/1.0 (googlebot@googlebot.com http://googlebot.com/)
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 6
+WordPress/4.0.6; http://www.cpheduglobal.com
+0 23
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 2
+Mozilla/5.0 (compatible; DomainSigmaCrawler/0.1; +http://domainsigma.com/robot)
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 13
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
+0 412
+Opera/9.00 (Windows NT 5.1; U; en)
+0 1
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.3; rv:36.0 Gecko/20100101 Firefox/36.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+0 72
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2700 Safa
+0 8
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+0 20
+Baiduspider-image+(+http://www.baidu.com/search/spider.htm)
+0 8
+Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.17
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7
+0 18
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/27.0.1453 Safari/53
+0 37
+Mozilla/5.0 (compatible; aiHitBot/2.9; +https://www.aihitdata.com/about)
+0 70
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95  Safari/537.36
+0 14
+Mozilla/5.0 (compatible; Nmap Scripting Engine; http://nmap.org/book/nse.html)
+0 1
+Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/9.0.1
+0 1
+Apache-HttpClient/4.3.5 (java 1.5)
+0 1
+Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; rv:38.0) Gecko/38.0 Firefox/38.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+0 38
+Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 26
+Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/31.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 193
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 345
+Mozilla/5.0 (compatible; GimmeUSAbot/1.0; +https://gimmeusa.com/pages/crawler)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Saf
+0 118
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+0 16
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.2102
+0 40
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12
+0 71
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30
+0 1
+Mozilla/5.0 (Windows NT 6.2; rv:21.0) Gecko/20130326 Firefox/21.0
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.2
+0 30
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/42.0.2311.47 Mobile/11
+0 87
+Mozilla/5.0 (Windows NT 5.1)
+0 3
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.289 Version/12.00
+0 37
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider(compatible; HaosouSpider; http://www.haosou.com/he
+0 3
+Telesphoreo
+0 10
+WordPress/4.0.7; http://www.cpheduglobal.com
+0 107
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; HUAWEI MT7-TL10 Build/HuaweiMT7-TL10)
+0 20
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+0 2
+www.probethenet.com scanner
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 568
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.48 Safari/537.36
+0 90
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 51
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2)
+0 2
+Mozilla/4.0 (compatible; Synapse)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Saf
+0 39
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 70
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

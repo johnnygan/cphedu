@@ -1,0 +1,795 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201412 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2586                
+POS_VISITOR 19154               
+POS_DAY 24493               
+POS_DOMAIN 3449                
+POS_LOGIN 3912                
+POS_ROBOT 4067                
+POS_WORMS 4700                
+POS_EMAILSENDER 4831                
+POS_EMAILRECEIVER 4974                
+POS_SESSION 25220               
+POS_SIDER 25427               
+POS_FILETYPES 5109                
+POS_OS 5383                
+POS_BROWSER 5563                
+POS_SCREENSIZE 5927                
+POS_UNKNOWNREFERER 6001                
+POS_UNKNOWNREFERERBROWSER 6220                
+POS_ORIGIN 6358                
+POS_SEREFERRALS 6499                
+POS_PAGEREFS 6676                
+POS_SEARCHWORDS 6920                
+POS_KEYWORDS 7072                
+POS_MISC 2250                
+POS_ERRORS 7131                
+POS_CLUSTER 3768                
+POS_SIDER_404 7280                
+POS_PLUGIN_geoip_city_maxmind 17956               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150101043837 1 0 9508486041203
+FirstTime 20141201213214
+LastTime 20141231170608
+LastUpdate 20150102084135 1 0 0 0 0
+TotalVisits 136                 
+TotalUnique 118                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 136                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 80 4005194 37 41 953301
+1 15 184 8279000 30 30 593477
+2 30 249 10308834 56 270 667132
+3 7 117 5858286 19 22 412509
+4 16 140 6014276 25 26 374736
+5 7 111 5800662 33 40 916797
+6 8 80 4085264 29 29 400968
+7 12 103 5780223 36 36 512987
+8 7 78 3344613 33 45 902661
+9 7 58 4231280 46 51 670911
+10 62 90 1603471 100 103 876166
+11 7 65 3834488 25 30 504409
+12 19 23 198980 51 55 416119
+13 78 142 4698925 126 148 1167982
+14 34 51 765573 51 54 401532
+15 22 105 5022087 32 53 1247304
+16 22 61 2632325 47 47 326071
+17 29 72 3026914 51 54 694873
+18 29 29 307832 55 58 598011
+19 35 191 8559397 58 58 275364
+20 30 204 9649809 58 87 1678452
+21 35 148 6624510 791 798 453951
+22 18 110 3453755 1582 1604 1472932
+23 45 441 24406306 1296 1319 3108064
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+unknown 180 253 4589647
+us 128 1192 55471695
+tr 118 118 315178
+cn 79 769 38327534
+in 38 372 21513565
+nl 12 12 209290
+ca 11 153 9716313
+fr 8 8 194209
+pl 5 5 64148
+lv 5 5 42767
+ua 1 1 35004
+jp 2 38 1946146
+au 1 1 1
+eu 2 2 42412
+hu 2 2 2713
+by 1 1 21382
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+googlebot 459 12763506 20141231224428 0
+bot[+:,\.\;\/\\-] 150 4963932 20141231135748 0
+wordpress 100 0 20141231224307 0
+no_user_agent 50 41129 20141221113046 0
+java 5 106910 20141211004503 0
+webfilter 5 123582 20141209013806 0
+baiduspider 4 81842 20141230110948 0
+sift 3 64146 20141228011641 0
+ia_archiver 2 42764 20141219063400 0
+spider 2 42764 20141204231537 0
+python 1 21382 20141211195100 0
+surveybot 2 42412 20141220120919 0
+cfnetwork 2 529910 20141209104528 0
+netcraft 1 21382 20141210120136 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 2 95056 0 0
+css 618 21460812 0 0
+png 419 7226799 0 0
+ttf 5 236660 0 0
+woff 46 1170552 0 0
+php 302 768491 0 0
+html 237 5439713 0 0
+js 844 34570447 0 0
+jpg 369 61249757 0 0
+xml 1 1045 0 0
+svg 1 112121 0 0
+gif 88 160551 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+winxp 456
+winlong 2
+macintosh 1
+unix 71
+winnt 638
+win2000 3
+win98 1
+linux 222
+macosx 1309
+bsdfreebsd 1
+winunknown 38
+win2003 11
+Unknown 179
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 23
+msie6.0 15
+firefox2.0.0.1 1
+firefox29.0 166
+firefox8.0 10
+firefox12.0 75
+firefox2.0.0.13 1
+msie8.0 4
+firefox33.0 3
+mozilla 597
+msie7.0 12
+firefox14.0.1 11
+msie10.0 39
+netscape4.0 214
+firefox6.0 8
+firefox0.9.3 1
+firefox3.5.9 2
+firefox3.6.3 1
+msie5.0 1
+msie9.0 44
+firefox27.0 1
+firefox8.0.1 7
+Unknown 2
+safari 1717
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/4.0_(compatible;_Synapse) 20141222062334
+Go_1.1_package_http 20141222143857
+Agent 20141205101044
+Mozilla/4.0 20141228195436
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go_1.1_package_http 20141222143857
+Agent 20141205101044
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 429 487
+From1 6 6
+From2 15 15
+From3 8 8
+From4 135 2416
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 13 13
+baidu 1 1
+sogou 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.douban.com/group/topic/69805443/ 6 6
+http://www.douban.com/group/topic/69806551/ 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 3732 164661
+206 12 398378
+500 1 497
+405 1 497
+404 433 217015
+301 93 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 268
+/Themes/default/zh-cn/images/bbs_nav.jpg 1 -
+/admin/Image/Login_tit.gif 1 -
+/images/index_24.jpg 1 -
+/images/logo.png 2 -
+/wp-content/themes/lightweight/license.php 1 http://www.cpheduglobal.com/wp-content/themes/lightweight/license.php
+/inc/images/logo.png 1 -
+/data/setmealimg/3.gif 1 -
+/wp-content/plugins/cp-multi-view-calendar/README.txt 1 -
+/admin/editor/xheditor_skin/default/img/tag-h4.gif 1 -
+/wap/templates/met/images/listico.gif 1 -
+/static/ayacms.gif 1 -
+/admin/system/images/login_background.jpg 2 -
+/SiteServer/Services/AdministratorService.asmx 1 -
+/jscal/src/css/img/cool-bg-hard-inv.png 1 -
+/nyet.gif 1 -
+/wp-content/plugins/akismet/wp-akismet.php 1 http://www.cpheduglobal.com/wp-content/plugins/akismet/wp-akismet.php
+/images/_m10.GIF 1 -
+/inc/qq.js 1 -
+/DatePicker/skin/datePicker.gif 1 -
+/siteserver/pic/company/logo.gif 1 -
+/admini/images/dt_admin_top_bg.png 1 -
+/wp-admin/images/wp-logo-2x.png 1 -
+/Admin/images/right.gif 1 -
+/wp-content/plugins/google-document-embedder/readme.txt 2 -
+/wp-content/themes/yakimabait/download.php 2 -
+/install/images/logo.jpg 1 -
+/xin/bt.gif 1 -
+/admin/images/admin_submit.jpg 1 -
+/shopdata/images/error_tips.gif 1 -
+/plus/img/wbg.gif 1 -
+/admin/images/netgather_com.gif 1 -
+/wp-content/plugins/simple-download-button-shortcode/simple-download-button_dl.php 2 -
+/admin/discuzfiles.md5 1 -
+/wp-content/plugins/revslider/index.php 1 -
+/images/admina/logo.png 1 -
+/data/adflash.txt 1 -
+/wp-content/plugins/revslider/release_log.txt 1 http://cpheduglobal.com/wp-content/plugins/revslider/release_log.txt
+/images/Jobs_resume_up.gif 1 -
+/logo/01.gif 1 -
+/Admin/Images/southidc.css 1 -
+/Vote/Img/skin/css_2/2_logo.gif 1 -
+/images/2/more.gif 1 -
+/wp-content/themes/parallelus-mingle/framework/utilities/download/getfile.php 3 -
+/member/images/base.css 1 -
+/images/admin/login/logo.png 1 -
+/static/image/admincp/bg_repno.gif 1 -
+/member/images/dzh_logo.gif 1 -
+/inc_img/vote/vote2_1.gif 1 -
+/skin/skin3/reg.gif 1 -
+/images/user_logo.GIF 1 -
+/KS_Inc/ajax.js 1 -
+/qq/images/mid4.gif 1 -
+/Admin/Include/version.xml 2 -
+/images/act_1.gif 1 -
+/editor/themes/qq/editor.gif 1 -
+/images/admina/arrow.jpg 1 -
+/wp-content/themes/Newspapertimes_1/download.php 2 -
+/admin/images/left_menu.png 1 -
+/ad_duilian/close.gif 1 -
+/ACT_inc/share/minusbottom.gif 1 -
+/admin/images/admin_left_6.gif 1 -
+/images/logo_wap.png 1 -
+/images/qq/qqkf2/Kf_bg03_03.gif 1 -
+/adfile/ad9.js 1 -
+/wp-content/uploads/wysija/themes/skets/skets.php 1 http://www.cpheduglobal.com/wp-content/uploads/wysija/themes/skets/skets.php
+/Admin/images/al_end_right.gif 1 -
+/template/skin4/images/style.css 1 -
+/Admin/Images/logo.jpg 1 -
+/robots.txt 128 -
+/images/top-jlwm_.jpg 1 -
+/member/images/bodyleft.gif 1 -
+/style/default/hdwiki.css 1 -
+/static/image/admincp/ajax_loader.gif 1 -
+/Admin/images/login_r4_c4_r1_c1.jpg 1 -
+/images/by.nzcms.gif 1 -
+/images/qq/1.gif 1 -
+/admin/images/login/index_hz02.gif 1 -
+/page/system/inc/fun.js 1 -
+/images/images/message.gif 1 -
+/Admin/images/loading.gif 1 -
+/plugin/images/netgather_com.gif 1 -
+/Admin/Images/Exit-Line.gif 1 -
+/admin/images/watermark.png 1 -
+/admin/templates/met/images/logosmall.gif 1 -
+/admin/images/login_06.jpg 1 -
+/images/index_border1.gif 1 -
+/js/upimg/subbotton.gif 1 -
+/include/payment/logo/remittance.gif 1 -
+/admin/images/back.gif 1 -
+/admin/Inc/southidc.css 2 -
+/images/Arrow_02.gif 1 -
+/install/images/logo.gif 2 -
+/wp-content/plugins/plugin-newsletter/preview.php 2 -
+/public/plug/im/im_bg.png 1 -
+/Admin/Images/bg_admin.jpg 1 -
+/%E2%80%9D 1 -
+/img/images/commentLoad.gif 1 -
+/404/emessage.gif 1 -
+/job/templates/met/css/style.css 1 -
+/wp-content/plugins/wp_api1/mod_system.php 1 http://www.cpheduglobal.com/wp-content/plugins/wp_api1/mod_system.php
+/static/js/admincp.js 1 -
+/template/default/images/index_97.jpg 1 -
+/apple-touch-icon.png 1 -
+/admini/images/dt_admini_bottom_logo.gif 1 -
+/admin/images/login/login_submit.gif 1 -
+/wp-content/uploads/wysija/themes/wp/sql.php 1 http://www.cpheduglobal.com/wp-content/uploads/wysija/themes/wp/sql.php
+/office/images/login/ico.gif 1 -
+/wp-content/uploads/wysija/themes/skretchys/sketly.php 1 http://www.cpheduglobal.com/wp-content/uploads/wysija/themes/skretchys/sketly.php
+/a_d/install/data.sql 1 -
+/wp-content/plugins/wp_sed/mod_system.php 1 http://www.cpheduglobal.com/wp-content/plugins/wp_sed/mod_system.php
+/install/templates/images/link_bg.gif 1 -
+/dede/img/admin_top_logo.gif 1 -
+/wp-content/plugins/wp-post-icon/wpposticon.php 1 http://www.cpheduglobal.com/wp-content/plugins/wp-post-icon/wpposticon.php
+/lib/images/tip_layer.png 1 -
+/wp-content/plugins/wptouch/include/js/wptouch.js 1 -
+/adminsoft/templates/images/login_line.png 1 -
+/wp-content/themes/twentyten/images/wordpress.png 1 -
+/admin/SouthidcEditor/Include/Editor.js 1 -
+/images/admin/sprites.png 1 -
+/wp-content/uploads/wysija/themes/sketchys/sket.php 1 http://www.cpheduglobal.com/wp-content/uploads/wysija/themes/sketchys/sket.php
+/images/reg.gif 1 -
+/apple-touch-icon-precomposed.png 1 -
+/images/default/loading.gif 1 -
+/inc/yucmedia/Media/img/direct/reload2.gif 1 -
+/wp-content/plugins/wp_importx3/mod_system.php 1 http://www.cpheduglobal.com/wp-content/plugins/wp_importx3/mod_system.php
+/images/tv_ico.gif 1 -
+/images/usercp_usergroups.gif 1 -
+/wp-content/plugins/wp-filemanager/incl/libfile.php 4 -
+/plugin/raty/img/star-half.png 1 -
+/wp-content/plugins/photosmash-galleries/readme.txt 1 -
+/wp-content/uploads/2013/12/ws1.php 1 http://www.cpheduglobal.com/wp-content/uploads/2013/12/ws1.php
+/wp-content/uploads/andwso.php 1 http://www.cpheduglobal.com/wp-content/uploads/andwso.php
+/admin/images/top_tt_bg.gif 1 -
+/install/images/bg-cmstop.jpg 1 -
+/wp-content/uploads/ws1.php 1 http://www.cpheduglobal.com/wp-content/uploads/ws1.php
+/e/tool/feedback/temp/test.txt 1 -
+/ewebeditor/KindEditor.js 1 -
+/wap/templates/default/images/nv_r2_c1.gif 1 -
+/KS_Inc/common.js 1 -
+/Admin/images/al_top.gif 1 -
+/admin/images/bg-pay-return-success.gif 1 -
+/zzxvgzynkplnfyw.html 1 -
+/admin/images/left_nav.jpg 1 -
+/images/admin/readme.gif 1 -
+/themes/admin/images/logo.png 1 -
+/images/lzbg12.gif 1 -
+/admin/Image/title.gif 1 -
+/mobile/images/redirect_icon.png 1 -
+/wp-content/plugins/slideshow-gallery/readme.txt 1 -
+/login/images/toolbar_back2.gif 1 -
+/jscal/src/css/img/cool-bg.png 1 -
+/images-global/zoom/zoom-caption-fill.png 1 -
+/Admin/images/install_logo.jpg 1 -
+/ADMIN/IMAGES/underline.gif 1 -
+/wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php 4 -
+/skin/skin3/login.gif 1 -
+/image/admin/logo.png 1 -
+/Admin/images/t2_r1_c5.jpg 1 -
+/admin/images/step4.jpg 1 -
+/' 1 -
+/inc/image/bj.gif 1 -
+/Admin_Cy/Script/xselect.js 1 -
+/PLUGIN/BackupDB/plugin.xml 1 -
+/views/images/admin/login_toptitle.jpg 1 -
+/wp-content/plugins/dukapress/lib/dp_image.php 2 -
+/admin/image/title.gif 1 -
+/admin/images/image_new.gif 1 -
+/wp-update.php 1 http://cpheduglobal.com/wp-update.php
+/static/sex0.jpg 1 -
+/wp-content/themes/parallelus-salutation/framework/utilities/download/getfile.php 4 -
+/image/watermark.gif 1 -
+/cn/images/banner_page_bg.gif 1 -
+/admin/images/admin_logo.png 1 -
+/member/images/member.gif 1 -
+/wp-content/plugins/pica-photo-gallery/picadownload.php 2 -
+/member/templets/images/login_logo.gif 1 -
+/wp-content/themes/tess/download.php 2 -
+/admin/images/login_button.jpg 1 -
+/data/smiliey/default/shy.gif 1 -
+/wp-admin/js/media-upload.dev.js 1 -
+/wp-content/uploads/2014/11/wp-conf2.php 1 http://www.cpheduglobal.com/wp-content/uploads/2014/11/wp-conf2.php
+/wp-content/plugins/wp_xpart/config.php 1 http://www.cpheduglobal.com/wp-content/plugins/wp_xpart/config.php
+/plus/weather/icon/a_12.gif 1 -
+/e/data/ecmseditor/images/blank.html 1 -
+/themes/README.txt 2 -
+/data/admin/ver.txt 2 -
+/xin/btn_regis.gif 1 -
+/wp-content/themes/ypo-theme/download.php 2 -
+/ACT_inc/ItemBg.gif 1 -
+/data/css/arrow-down-title.jpg 1 -
+/images/wp-background-preview-bg.gif 1 -
+/admin/views/style/green/style.css 1 -
+/components/com_mailto/views/sent/metadata.xml 2 -
+/admin/images/logo.png 1 -
+/login.js 1 -
+/admin/skin/images/topbg.gif 1 -
+/wp-content/themes/authentic/includes/download.php 2 -
+/views/images/water.gif 1 -
+/_skins/free/images/top_menu_bg.jpg 1 -
+/admin/images/login/index_hz03.gif 1 -
+/images/t4.gif 1 -
+/js/close.gif 1 -
+/admin/Images/del.gif 1 -
+/api/alipay/images/new-btn-fixed.png 1 -
+/user/face/2.gif 1 -
+/data/adtool/theme/d2.jpg 1 -
+/images/jia.gif 1 -
+/wp-content/uploads/wysija/themes/caspers/archive.php 1 http://www.cpheduglobal.com/wp-content/uploads/wysija/themes/caspers/archive.php
+/adminimages/title.GIF 1 -
+/ADMIN/IMAGES/number.gif 1 -
+/inc/tools/iepngfix/blank.gif 1 -
+/Script/Html.js 1 -
+/admin/images/login_08.gif 1 -
+/member/skin/images/level_10.gif 1 -
+/images/logo_bg.jpg 1 -
+/inc/photo/loader.gif 1 -
+/install/images/bg-input.png 1 -
+/inc/image/m_tleft.png 1 -
+/images/ico1.jpg 1 -
+/wp-content/uploads/res.php 1 http://www.cpheduglobal.com/wp-content/uploads/res.php
+/images/QQ/qqon5.gif 1 -
+/Inc/NoSqlHack.Asp 1 -
+/yqpegnbhayl.html 1 -
+/wp-content/themes/jarida/download.php 2 -
+/templets/default/style/dedecms.css 3 -
+/_skins/free/images/left_title_bg.jpg 1 -
+/setup/images/agree.jpg 1 -
+/wp-content/plugins/filedownload/download.php/ 2 -
+/images/zoom.gif 1 -
+/xheditor/xheditor_plugins/multiupload/img/progressbg.gif 1 -
+/inc/img/qmiddle.png 1 -
+/admin/images/menu_title3a.jpg 1 -
+/install/images/00.png 1 -
+/nz.ico 1 -
+/admin/ckeditor/images/spacer.gif 1 -
+/images/admin/logo.gif 1 -
+/install/images/logo.png 1 -
+/apply/_notes/dwsync.xml 1 -
+/install/images/guide_1.gif 1 -
+/wp-content/themes/urbancity/lib/scripts/download.php 2 -
+/wp-content/themes/corporate_works/downloader.php 2 -
+/admin/images/top.gif 1 -
+/images/bg1.gif 1 -
+/data/admin/allowurl.txt 3 -
+/inc/images/watermark.png 1 -
+/images/adminlogoin.gif 1 -
+/wp-content/uploads/wysija/temp/temp.php 1 http://www.cpheduglobal.com/wp-content/uploads/wysija/temp/temp.php
+/htaccess.txt 1 -
+/adminsoft/templates/images/login_title.png 1 -
+/template/skin4/images/logo.png 1 -
+/wp-content/force-download.php 2 -
+/Themes/default/zh-cn/images/CertificateLogo.jpg 1 -
+/static/image/admincp/logo.gif 1 -
+/install/images/default/section_bottom.jpg 1 -
+/install/images/steptab.png 1 -
+/admin/template/images/site_logo.png 1 -
+/lib/web/js/source/form/form.js 1 -
+/images/yi.png 1 -
+/SouthidcEditor/sysimage/icon32xls.gif 1 -
+/images/luzhu.gif 1 -
+/system/images/logo.png 1 -
+/install/style.css 1 -
+/images/logo.gif 1 -
+/question/images/face/images/ico_face_arrow.gif 1 -
+/images/adm/left_menus1.gif 1 -
+/wp-content/plugins/showbiz/index.php 1 -
+/views/images/install/set01_top_nav.gif 1 -
+/admin/imgs/login_04.jpg 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 36
+unknown 0 1296 0 0
+cn_beijing_22 0 411 0 0
+us_plano_tx 0 191 0 0
+in_bangalore_19 0 127 0 0
+tr_izmir_35 0 118 0 0
+us_dallas_tx 0 70 0 0
+us_addison_tx 0 63 0 0
+ca_edmonton_ab 0 62 0 0
+us_allen_tx 0 58 0 0
+cn_jinwang_02 0 58 0 0
+au_canberra_01 0 1 0 0
+us_sterling_va 0 11 0 0
+us_fort%20worth_tx 0 47 0 0
+us_san%20antonio_tx 0 3 0 0
+cn_shanghai_23 0 30 0 0
+cn_guangzhou_30 0 43 0 0
+cn_shenzhen_30 0 1 0 0
+us_mountain%20view_ca 0 42 0 0
+cn_chaoyang_19 0 2 0 0
+ca_calgary_ab 0 53 0 0
+us_richardson_tx 0 42 0 0
+us_sunnyvale_ca 0 1 0 0
+pl_polska_77 0 3 0 0
+us_washington_dc 0 13 0 0
+in_mumbai_16 0 2 0 0
+by_minsk_04 0 1 0 0
+us_bellevue_wa 0 4 0 0
+us_denver_co 0 14 0 0
+us_garland_tx 0 37 0 0
+hu_budapest_05 0 2 0 0
+us_seattle_wa 0 2 0 0
+us_flower%20mound_tx 0 37 0 0
+us_brooklyn_ny 0 42 0 0
+us_woodbridge_nj 0 4 0 0
+us_jefferson_ga 0 40 0 0
+ua_nikolaev_16 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 136
+176.102.38.151 167 167 447833 20141222222908
+81.215.159.133 60 60 160260 20141222101305
+94.121.171.6 58 58 154918 20141222140139
+71.170.123.9 11 149 7881802 20141214205252
+69.58.178.58 11 11 362360 20141221005625
+208.217.212.21 9 70 4496638 20141208133242
+93.190.140.145 8 8 187905 20141220180539
+99.108.174.43 7 58 4182721 20141208232116
+106.77.114.55 7 75 3337326 20141208084038
+122.167.215.209 7 60 3609408 20141212074740
+173.164.124.218 2 34 29848 20141230013622
+50.57.64.198 1 1 42 20141220213822
+173.183.139.228 4 53 3539746 20141205193036
+117.32.248.78 5 44 2625705 20141204021947
+112.64.235.90 1 14 591493 20141208232553
+61.135.186.52 0 1 24716 
+180.153.214.197 1 14 583027 20141208230934
+209.91.107.136 5 62 3757415 20141205205527
+195.154.181.152 6 6 144085 20141231170608
+157.55.39.218 0 13 31577 
+107.1.246.146 2 3 67937 20141202140947
+173.57.80.43 6 63 4238611 20141208231646
+216.145.11.94 2 2 14406 20141228140203
+157.55.39.217 0 3 7287 
+213.251.182.10 1 1 29437 20141220184359
+64.233.173.151 0 15 889877 
+64.233.173.147 0 11 592265 
+101.226.66.175 1 1 22052 20141208232603
+180.153.114.199 1 1 21382 20141212013628
+115.239.212.78 2 7 333073 20141204063854
+183.60.35.93 1 14 583027 20141227013755
+1.85.59.252 2 19 709210 20141204024035
+64.233.173.143 2 10 434425 20141216041654
+220.181.127.14 2 2 37074 20141213040438
+120.192.231.15 2 38 1946146 20141204053834
+5.9.11.122 1 1 21206 20141214003622
+199.30.25.110 1 12 820367 20141201213214
+176.103.48.38 4 4 21385 20141212134511
+54.211.38.252 1 1 21206 20141209121207
+176.102.38.142 1 1 2671 20141211045804
+216.163.188.237 1 1 21382 20141215193903
+162.144.106.152 1 1 1 20141214160945
+64.246.165.200 3 3 21609 20141202140406
+23.112.246.193 3 38 1968501 20141208230605
+114.249.69.223 2 38 1946146 20141220030746
+157.55.39.164 0 10 24290 
+171.48.243.197 6 56 4229520 20141216115637
+89.133.26.239 2 2 2713 20141220180558
+69.40.89.192 5 40 1985119 20141217223657
+124.205.129.99 6 46 2679679 20141204023405
+101.226.33.206 1 14 583027 20141208231224
+38.100.21.69 2 11 283404 20141217190318
+216.38.216.197 2 14 601980 20141204154051
+113.108.82.37 1 1 21382 20141208043045
+107.77.80.96 5 68 4615366 20141214204130
+71.97.83.140 4 42 2149433 20141208234316
+223.191.114.91 1 2 286337 20141223100117
+14.17.34.182 1 14 583027 20141228195433
+166.137.139.33 4 42 2584488 20141209002152
+101.226.89.119 1 14 583697 20141208233126
+101.199.112.49 1 23 997461 20141205000850
+61.135.186.40 0 1 12727 
+111.206.36.147 0 1 43 
+115.239.212.203 0 5 315552 
+211.147.4.43 6 6 122954 20141205050022
+166.137.242.94 4 49 72612 20141229222802
+106.185.46.185 2 38 1946146 20141206011015
+108.208.90.68 1 1 16044 20141224002917
+89.69.56.179 2 2 42764 20141224123853
+114.243.65.21 2 38 1946146 20141210200644
+173.164.108.181 6 109 167358 20141230214900
+180.149.143.10 0 1 24716 
+123.121.27.233 2 38 1946146 20141204033836
+180.153.114.197 3 3 63451 20141208231848
+14.99.228.186 6 67 4424721 20141216025144
+92.63.88.68 5 5 42767 20141223204914
+115.239.212.138 1 2 22487 20141204063843
+50.76.39.177 2 37 1920973 20141209023756
+66.249.84.191 1 1 21206 20141216041649
+211.162.73.115 0 1 95807 
+54.76.137.77 2 2 31243 20141215152904
+180.153.206.29 1 1 29848 20141208231943
+115.239.212.17 1 4 136708 20141204063854
+180.149.143.142 0 1 26120 
+24.114.27.211 2 38 2419152 20141216153814
+202.100.30.235 2 58 3316725 20141204063912
+112.65.193.14 1 14 583027 20141208043813
+38.127.167.46 1 2 46379 20141205121042
+163.177.69.38 1 14 583027 20141222143937
+192.152.183.2 4 42 2584488 20141209165354
+178.125.173.121 1 1 21382 20141220172603
+94.228.215.214 4 4 21385 20141216200645
+180.149.143.17 0 1 26120 
+36.40.61.17 4 59 3575510 20141204211350
+37.57.231.125 1 1 21206 20141215172148
+14.17.34.190 1 14 583027 20141224063505
+180.153.214.182 1 14 583027 20141204025003
+219.142.22.134 7 59 4215690 20141205010154
+199.30.25.184 2 37 1937501 20141227034256
+180.153.214.152 1 14 583027 20141204020102
+50.57.190.90 1 1 21382 20141220213822
+114.113.124.1 1 1 21382 20141205230611
+89.66.66.178 1 1 21382 20141220223220
+113.142.11.151 0 12 539536 
+180.153.206.34 1 14 582332 20141208232122
+72.64.87.38 2 37 1920973 20141208230632
+50.57.190.50 1 1 21382 20141220213824
+157.55.39.163 0 3 7287 
+54.161.130.180 1 1 21382 20141231123503
+71.11.232.136 6 47 2812923 20141208231905
+107.204.21.126 3 41 2128051 20141208232602
+115.239.212.5 1 1 24509 20141204063906
+99.47.94.48 4 42 2149433 20141209071758
+220.181.132.218 1 1 21206 20141205000824
+101.63.227.29 6 64 3812436 20141222115542
+118.144.65.19 2 2 42412 20141204045219
+72.182.63.37 4 49 3312153 20141208225656
+106.199.255.203 1 4 166056 20141224020504
+5.9.53.251 1 1 21206 20141224032405
+157.55.39.165 0 1 2429 
+58.254.168.73 1 27 1061067 20141205101027
+66.249.84.185 1 4 96725 20141217120844
+185.72.244.38 1 1 0 20141222143857
+64.246.165.150 1 1 7203 20141215141317
+66.249.84.197 1 1 21206 20141220022309
+91.211.221.100 2 2 2 20141224022742
+62.210.83.64 1 1 20687 20141230170628
+61.135.169.22 0 1 43 
+112.64.235.249 2 2 42764 20141209071715
+115.239.212.145 0 4 257179 
+171.13.14.133 3 26 1053052 20141213040532
+217.77.220.156 1 1 35004 20141226185615
+106.217.88.30 4 44 1647761 20141223024539
+99.51.69.52 2 37 1920973 20141208233316
+119.147.21.144 1 1 21382 20141204015136
+101.199.108.120 1 23 997461 20141204040610
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20141201 1 12 820367 1
+20141202 5 6 89546 2
+20141204 47 466 25217517 21
+20141205 17 176 9784967 9
+20141206 2 38 1946146 1
+20141208 66 654 36402789 22
+20141209 24 282 15885288 8
+20141210 3 39 1968198 2
+20141211 1 2 5100 1
+20141212 12 68 3659462 3
+20141213 9 83 5019148 4
+20141214 5 53 1969817 4
+20141215 4 5 73426 4
+20141216 21 205 13062582 7
+20141217 8 58 2327047 5
+20141219 0 5 12145 0
+20141220 19 58 2303008 10
+20141221 11 14 369647 1
+20141222 293 364 5158474 7
+20141223 11 53 2000676 5
+20141224 7 23 807717 6
+20141225 2 38 107662 1
+20141226 3 36 64852 2
+20141227 3 51 2520528 2
+20141228 3 16 597433 2
+20141229 4 49 72612 1
+20141230 5 71 80383 3
+20141231 7 7 165467 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 9
+2mn-5mn 8
+0s-30s 104
+15mn-30mn 5
+30s-2mn 8
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/wp-login.php 287 768353 5 6
+/ 237 5439713 124 99
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff 46 1170552 0 19
+/wp-admin/admin-ajax.php 10 10 1 5
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf 5 236660 2 4
+/xmlrpc.php 3 126 2 2
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot 2 95056 0 0
+//wp-admin/admin-ajax.php 2 2 1 1
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg 1 112121 1 0
+END_SIDER

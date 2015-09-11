@@ -1,0 +1,350 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201408 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2586                
+POS_VISITOR 7069                
+POS_DAY 7931                
+POS_DOMAIN 3237                
+POS_LOGIN 3524                
+POS_ROBOT 3679                
+POS_WORMS 4003                
+POS_EMAILSENDER 4134                
+POS_EMAILRECEIVER 4277                
+POS_SESSION 8276                
+POS_SIDER 8450                
+POS_FILETYPES 4412                
+POS_OS 4639                
+POS_BROWSER 4734                
+POS_SCREENSIZE 4900                
+POS_UNKNOWNREFERER 4974                
+POS_UNKNOWNREFERERBROWSER 5089                
+POS_ORIGIN 5199                
+POS_SEREFERRALS 5335                
+POS_PAGEREFS 5490                
+POS_SEARCHWORDS 5638                
+POS_KEYWORDS 5790                
+POS_MISC 2250                
+POS_ERRORS 5849                
+POS_CLUSTER 3380                
+POS_SIDER_404 5975                
+POS_PLUGIN_geoip_city_maxmind 6475                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140901155619 1 0 7004346576816
+FirstTime 20140818052857
+LastTime 20140831023833
+LastUpdate 20140902045916 1 0 0 0 0
+TotalVisits 24                  
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 3798 2 4 32496
+1 0 0 0 3 3 47042
+2 3 3 27336 10 12 64608
+3 2 2 7596 5 7 52363
+4 2 2 7596 33 35 237770
+5 2 2 7596 53 53 43353
+6 0 0 0 1 1 0
+7 2 2 7596 7 26 896754
+8 1 1 3798 0 3 18710
+9 0 0 0 2 3 10651
+10 26 91 3102243 15 16 123189
+11 33 132 3692162 37 37 241
+12 1 1 3798 2 2 0
+13 0 0 0 13 13 7166
+14 0 0 0 1 1 653
+15 2 6 148637 20 20 752
+16 65 121 3555166 17 17 5618
+17 46 77 2191942 21 21 39809
+18 0 0 0 3 3 1959
+19 2 11 69978 3 3 4041
+20 2 6 148637 6 6 1393
+21 2 2 259203 27 27 9534
+22 0 0 0 0 0 0
+23 0 0 0 5 5 8249
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 181 449 12943697
+unknown 7 7 26586
+cn 2 2 259203
+de 1 1 3798
+vn 1 1 3798
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+googlebot 112 1399709 20140831035550 0
+wordpress 17 1 20140831073102 0
+bot[+:,\.\;\/\\-] 5 50874 20140831101045 0
+no_user_agent 3 11394 20140821002032 0
+msnbot\-media 1 13684 20140830023019 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 134 2198475 0 0
+png 56 3954871 0 0
+ttf 1 47332 0 0
+woff 4 92412 0 0
+php 131 3570062 0 0
+html 51 642502 0 0
+jpg 2 170421 0 0
+js 65 2483032 0 0
+gif 11 71891 0 0
+svg 5 6084 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 350
+winlong 2
+winxp 5
+winnt 99
+Unknown 1
+linux 3
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 9
+msie8.0 3
+firefox14.0.1 1
+msie7.0 2
+firefox6.0 1
+Unknown 1
+safari 317
+firefox11.0 2
+firefox31.0 132
+firefox3.6.13 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WinInet_Test 20140824044351
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WinInet_Test 20140824044351
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 43 43
+From1 0 0
+From2 2 2
+From3 0 0
+From4 147 415
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 40 89460
+500 83 11892
+301 17 3217
+404 40 26120
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 14
+/wordpress_zac/index.html 1 -
+/wordpress_zac/index 1 -
+/cart/include/version.php 1 -
+/robots.txt 23 -
+/store/include/version.php 1 -
+/administrator/ 1 -
+/xcart/include/version.php 1 -
+/wordpress_zac/wp-login.php 3 http://localhost:8888/wordpress/wp-admin/options-general.php
+/admin.php 2 -
+/include/version.php 1 -
+/administrator/index.php 1 -
+/wp-login.php 2 -
+/wordpress_zac/ 1 -
+/shop/include/version.php 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 11
+us_dallas_tx 0 424 0 0
+us_richardson_tx 0 15 0 0
+unknown 0 10 0 0
+cn_hefei_01 0 2 0 0
+us_washington_dc 0 2 0 0
+us_woburn_ma 0 2 0 0
+us_sterling_va 0 1 0 0
+us_mountain%20view_ca 0 1 0 0
+us_woodbridge_nj 0 1 0 0
+vn_hanoi_44 0 1 0 0
+us_seattle_wa 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+208.217.212.21 111 202 5888149 20140827170756
+72.181.153.11 33 132 3692162 20140829111925
+208.217.212.37 24 89 3094647 20140828105213
+38.100.21.118 2 2 7596 20140818052857
+76.184.152.106 2 15 211019 20140825202758
+207.244.73.5 2 2 7596 20140824105416
+23.239.196.71 2 2 7596 20140819043015
+166.78.181.113 2 2 7596 20140822153408
+50.193.202.82 2 2 7596 20140824074800
+61.191.20.23 2 2 259203 20140827215156
+78.47.47.188 1 1 3798 20140827021901
+208.43.251.182 1 1 3798 20140820202542
+37.200.65.208 1 1 3798 20140826022249
+54.205.188.207 1 1 19740 20140831023833
+192.237.216.89 1 1 3798 20140827031948
+66.249.85.21 1 1 3798 20140819175820
+69.58.178.58 1 1 3798 20140823192906
+199.30.228.129 1 1 3798 20140818085941
+117.6.120.226 1 1 3798 20140824044351
+198.101.238.203 1 1 3798 20140827031846
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20140818 4 4 15192 3
+20140819 2 2 7596 2
+20140820 44 84 2261732 3
+20140821 1 1 3798 1
+20140822 1 1 3798 1
+20140823 1 1 3798 1
+20140824 4 4 15192 3
+20140825 2 15 211019 1
+20140826 1 1 3798 1
+20140827 74 125 3904610 5
+20140828 24 89 3094647 1
+20140829 33 132 3692162 1
+20140831 1 1 19740 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 1
+5mn-15mn 2
+0s-30s 19
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 30
+/wordpress/wp-admin/admin-ajax.php 42 27840 0 2
+/ 33 322510 22 19
+/wordpress/wp-admin/load-scripts.php 16 1093291 0 0
+/wp-login.php 15 42290 0 1
+/wp-admin/load-scripts.php 9 335818 0 0
+/wordpress/ 9 37166 1 1
+/wordpress/wp-admin/load-styles.php 7 664753 0 0
+/wordpress/wp-login.php 7 20637 0 0
+/wp-admin/themes.php 5 192397 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff 4 92412 0 0
+/wp-admin/images/wordpress-logo.svg 3 4563 0 0
+/wordpress/wp-admin/theme-install.php 2 51424 0 0
+/wp-admin/load-styles.php 2 154614 0 0
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf 1 47332 0 0
+/wordpress/wp-admin/index.php 1 43497 0 0
+/wp-admin/profile.php 1 38272 0 0
+/wordpress/wp-admin/tools.php 3 70299 0 0
+/wordpress/wp-admin/images/wordpress-logo.svg 2 1521 0 0
+/wordpress/wp-admin/plugins.php 3 102853 0 0
+/wordpress_zac/ 3 0 0 0
+/wordpress/wp-admin/ 3 147381 0 0
+/wp-admin/ 3 135445 0 0
+/wordpress/wp-admin/update.php 2 34670 0 0
+/wp-admin/admin-ajax.php 1 3144 0 0
+/wp-admin/edit.php 1 58344 0 0
+/wordpress/wp-admin/install.php 4 13452 0 0
+/wp-admin/options-general.php 2 116446 0 0
+/file.php 2 259203 1 1
+/wordpress/wp-admin/themes.php 4 144302 0 0
+/wordpress/wp-admin/plugin-install.php 2 102516 0 0
+END_SIDER

@@ -1,0 +1,555 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201505 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2583                
+POS_VISITOR 13192               
+POS_DAY 17127               
+POS_DOMAIN 3401                
+POS_LOGIN 3831                
+POS_ROBOT 3986                
+POS_WORMS 4557                
+POS_EMAILSENDER 4688                
+POS_EMAILRECEIVER 4831                
+POS_SESSION 17892               
+POS_SIDER 18099               
+POS_FILETYPES 4966                
+POS_OS 5202                
+POS_BROWSER 5319                
+POS_SCREENSIZE 5666                
+POS_UNKNOWNREFERER 5740                
+POS_UNKNOWNREFERERBROWSER 5899                
+POS_ORIGIN 6004                
+POS_SEREFERRALS 6144                
+POS_PAGEREFS 6311                
+POS_SEARCHWORDS 6787                
+POS_KEYWORDS 6955                
+POS_MISC 2247                
+POS_ERRORS 7030                
+POS_CLUSTER 3687                
+POS_SIDER_404 7168                
+POS_PLUGIN_geoip_city_maxmind 12191               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150601000958 105 18106 9797721639360
+FirstTime 0
+LastTime 20150531224138
+LastUpdate 20150601144221 105 61 43 0 0
+TotalVisits 120                 
+TotalUnique 95                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 99                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 50 2011378 63 99 2436480
+1 3 3 40097 50 56 1136320
+2 6 6 47466 71 78 647469
+3 4 17 636773 63 79 2054820
+4 11 65 3055579 33 39 597648
+5 6 19 790470 83 86 2044747
+6 5 5 69312 55 72 1852094
+7 8 43 2050055 60 64 689731
+8 5 9 240539 58 72 1646904
+9 13 34 1175156 102 128 3406465
+10 4 4 45260 52 56 953888
+11 19 59 2935857 43 54 935570
+12 15 195 6450608 25 31 507185
+13 19 94 4642508 67 68 955525
+14 15 291 8755351 47 59 1276131
+15 6 6 45438 82 113 3188039
+16 4 17 514698 38 44 1453127
+17 14 137 4241661 67 81 1768650
+18 5 5 84953 76 81 1414545
+19 3 3 58808 43 67 1564359
+20 20 102 5255259 59 62 812182
+21 13 140 8207706 87 92 1356947
+22 13 80 4368786 60 65 956852
+23 5 5 35035 34 44 1126435
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 111 1010 41059495
+cn 41 268 11931986
+ua 30 30 239520
+unknown 15 50 2102149
+it 9 9 24039
+fr 7 7 149046
+ru 3 3 89573
+cz 3 3 21384
+gb 2 2 24120
+eu 2 2 32088
+es 1 1 1
+kg 1 1 21206
+pl 1 1 21382
+nl 1 1 21382
+lu 1 1 21382
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+baiduspider 372 11161877 20150531180535 0
+bot[+:,\.\;\/\\-] 361 10919980 20150531201419 0
+googlebot 335 9684826 20150531184420 0
+wordpress 139 1 20150531224131 0
+crawl 54 1622341 20150526051810 0
+mj12bot 42 928454 20150521072701 0
+msnbot\-media 8 121916 20150522025058 0
+no_user_agent 5 73403 20150525180630 0
+spider 5 95741 20150529061844 0
+robot 4 0 20150526202242 0
+surveybot 2 42412 20150527163117 0
+netcraft 1 21382 20150507013812 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 363 8792487 0 0
+png 159 2864187 0 0
+ttf 6 283992 0 0
+woff 15 431256 0 0
+php 48 68145 0 0
+html 159 3690963 0 0
+js 465 14198187 0 0
+jpg 143 25372795 0 0
+xml 1 1045 0 0
+gif 30 55696 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 586
+winlong 2
+winxp 25
+win2003 11
+unix 2
+winnt 638
+Unknown 3
+linux 122
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 23
+msie6.0 6
+firefox14.0 4
+firefox3.6 1
+opera 7
+firefox29.0 11
+firefox34.0 28
+firefox38.0 274
+firefox3.6.4 45
+msie8.0 3
+firefox6.0.2 1
+mozilla 41
+firefox37.0 216
+msie7.0 12
+firefox14.0.1 11
+firefox22.0 3
+firefox6.0 4
+firefox3.6.3 1
+wget 1
+msie9.0 1
+Unknown 1
+firefox36.0 12
+safari 705
+firefox35.0 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/4.0_(compatible;_Synapse) 20150526142904
+tiehttp 20150520222833
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+tiehttp 20150520222833
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 110 126
+From1 0 0
+From2 27 27
+From3 9 9
+From4 82 1227
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 9 9
+baidu 18 18
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://mail.dameilife.com/cgi-bin/mail_spam 2 2
+http://www.douban.com/group/topic/69805443/ 2 2
+http://set1.mail.qq.com/cgi-bin/readmail 1 1
+http://burger-imperia.com 1 1
+https://construction0management0consultant.wordpress.com 1 1
+http://www.douban.com/group/topic/72775106/ 1 1
+http://www.douban.com/group/topic/72385606/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+cphglobal%7c 18
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+cphglobal%7c 18
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 10 440
+302 10 0
+405 1 0
+500 1 497
+301 112 0
+404 228 108843
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 77
+/wp-content/uploads/wp_config.php 1 http://www.cpheduglobal.com/
+/wp-content/topnews/license.php 1 http://cpheduglobal.com/wp-content/topnews/license.php
+/robots.txt 137 -
+/wp-content/plugins/website-contact-form-with-file-upload/ 1 -
+/wp-content/lib.php 1 http://www.cpheduglobal.com/
+/wp-content/uploads/wpallimport/uploads/1d5d0f9794d08f58c6a440ab3a3daf94/db.php 1 -
+/wp-content/plugins/wp-symposium/server/php/index.php 4 -
+/wp-content/uploads/hello.php 1 http://cpheduglobal.com/wp-content/uploads/hello.php
+/feed/ 1 -
+/wp-content/218.php 1 http://www.cpheduglobal.com/
+/wp-content/plugins/hello.php 2 http://cpheduglobal.com/wp-content/plugins/hello.php
+/styles/actions/users/form.css 1 http://cpheduglobal.com/styles/actions/users/form.css
+/wp-content/plugins/db-backup/download.php 2 http://www.cpheduglobal.com/
+/wp-admin/maint/rrepair.php 1 http://cpheduglobal.com/wp-admin/maint/rrepair.php
+/wp-content/src.php 1 http://www.cpheduglobal.com/
+/wp-content/plugins/revslider/temp/update_extract/revslider/db.php 2 -
+/wp-content/plugins/videowhisper-video-conference-integration/vc/vw_upload.php 1 -
+/wp-content/plugins/i-dump-iphone-to-wordpress-photo-uploader/uploader.php 1 -
+/wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php 1 -
+/wp-content/themes/awake/lib/scripts/dl-skin.php 1 -
+/wp-content/setup.php 1 http://www.cpheduglobal.com/
+/wp-content/plugins/inboundio-marketing/admin/partials/csv_uploader.php 1 -
+/wp-content/themes/infocus2/lib/scripts/dl-skin.php 1 -
+/wp-content/plugins/plugin-newsletter/preview.php 1 -
+/wp-content/themes/method/lib/scripts/dl-skin.php 1 -
+/wp-content/themes/construct/lib/scripts/dl-skin.php 1 -
+/wp-content/plugins/dukapress/lib/dp_image.php 1 -
+/wp-content/themes/dejavu/lib/scripts/dl-skin.php 1 -
+/wp-content/themes/trinity/lib/scripts/download.php 1 -
+/wp-content/plugins/google-document-embedder/readme.txt 1 -
+/%E2%80%9D 1 -
+/wp-update.php 3 http://www.cpheduglobal.com/wp-update.php
+/wp-content/themes/parallelus-salutation/framework/utilities/download/getfile.php 1 -
+/wp-content/themes/designfolio-plus/admin/upload-file.php 1 -
+/wp-includes/Text/Tiff.php 1 http://cpheduglobal.com/wp-includes/Text/Tiff.php
+/wp-admin/includes/rss.php 1 http://cpheduglobal.com/wp-admin/includes/rss.php
+/wp-content/plugins/simple-download-button-shortcode/simple-download-button_dl.php 1 -
+/wp-content/uploads/shwso.php 1 http://www.cpheduglobal.com/
+/wp-content/revslider/release_log.txt 1 http://cpheduglobal.com/wp-content/revslider/release_log.txt
+/wp-content/uploads/dump.sql 1 http://cpheduglobal.com/wp-content/uploads/dump.sql
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 1 -
+/wp-content/plugins/pica-photo-gallery/picadownload.php 1 -
+/wp-content/uploads/wpallimport/uploads/4b64f2aa2b79887199be68bfea5bd266/db.php 1 -
+/wp-content/plugins/iindex.php 1 http://cpheduglobal.com/wp-content/plugins/iindex.php
+/wp-content/uploads/rss.php 1 http://cpheduglobal.com/wp-content/uploads/rss.php
+/wp-content/themes/lote27/download.php 1 -
+/wp-content/themes/urbancity/lib/scripts/download.php 1 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 3 -
+/wp-content/plugins/sexy-contact-form/readme.txt 1 http://www.cpheduglobal.com/
+/wp-content/themes/simplecart/admin/upload-file.php 1 -
+/wp-content/themes/NativeChurch/download/download.php 1 -
+/wp-content/uploads/wp-cmd.php 1 http://www.cpheduglobal.com/
+/wp-content/themes/parallelus-mingle/framework/utilities/download/getfile.php 1 -
+/wp-content/themes/infocus/lib/scripts/dl-skin.php 1 -
+/wp-content/uploads/wp-cache.php 1 http://www.cpheduglobal.com/
+/wp-content/themes/elegance/lib/scripts/dl-skin.php 1 -
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 5 -
+/wp-content/uploads/wp-admin-cache.php 1 http://www.cpheduglobal.com/
+/wp-content/force-download.php 1 -
+/wp-content/themes/linenity/functions/download.php 1 -
+/wp-content/themes/fusion/lib/scripts/dl-skin.php 1 -
+/wp-content/wp-admin.php 1 http://www.cpheduglobal.com/
+/setup.php 1 http://www.cpheduglobal.com/setup.php
+/wp-content/themes/authentic/includes/download.php 1 -
+/wp-content/themes/antioch/lib/scripts/download.php 1 -
+/wp-content/themes/myriad/lib/scripts/dl-skin.php 1 -
+/wp-content/plugins/wp-filemanager/incl/libfile.php 1 -
+//admin/ 2 -
+/wp-content/themes/churchope/lib/downloadlink.php 1 -
+/wp-content/themes/persuasion/lib/scripts/dl-skin.php 1 -
+/wp-includes/pomo/so.php 1 http://cpheduglobal.com/wp-includes/pomo/so.php
+/wp-content/plugins/wp-easycart/inc/amfphp/administration/banneruploaderscript.php 1 -
+/wp-content/themes/modular/lib/scripts/dl-skin.php 1 -
+/wp-content/plugins/wp-editor/readme.txt 1 http://www.cpheduglobal.com/wp-content/plugins/wp-editor/readme.txt
+/wp-content/themes/epic/includes/download.php 1 -
+/wp-content/themes/echelon/lib/scripts/dl-skin.php 1 -
+/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/index.php 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 27
+unknown 0 607 0 0
+us_denver_co 0 291 0 0
+cn_beijing_22 0 131 0 0
+us_canby_or 0 77 0 0
+cn_guangzhou_30 0 53 0 0
+us_plano_tx 0 48 0 0
+us_sunnyvale_ca 0 45 0 0
+us_hopkins_mn 0 39 0 0
+cn_ling_25 0 38 0 0
+us_sterling_va 0 11 0 0
+cn_shenzhen_30 0 5 0 0
+us_mountain%20view_ca 0 4 0 0
+it_costigliole%20d'asti_12 0 1 0 0
+us_san%20jose_ca 0 4 0 0
+ru_saint%20petersburg_66 0 2 0 0
+us_sayreville_nj 0 3 0 0
+us_chicago_il 0 2 0 0
+us_seattle_wa 0 4 0 0
+pl_rumia_82 0 1 0 0
+us_wilmington_de 0 1 0 0
+us_malvern_pa 0 2 0 0
+ru_zaprudnya_47 0 1 0 0
+us_redmond_wa 0 4 0 0
+us_washington_dc 0 11 0 0
+us_south%20el%20monte_ca 0 1 0 0
+us_woodbridge_nj 0 2 0 0
+us_richmond_va 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 99
+216.58.145.196 33 291 8870904 20150507134047
+69.58.178.58 11 11 362732 20150519203542
+178.137.81.145 10 10 64905 20150531224138
+206.57.43.104 10 235 6492288 20150522140045
+94.131.14.19 8 8 73214 20150531113111
+108.208.86.202 6 67 4424721 20150508214419
+61.135.190.224 5 5 90896 20150528073522
+183.37.255.170 4 39 1969096 20150518043653
+94.131.14.4 4 4 37428 20150529130244
+94.131.14.13 4 4 21385 20150522025217
+61.135.190.105 1 8 386030 20150511211822
+207.90.2.108 1 1 21382 20150526223433
+94.23.217.201 1 1 21382 20150515131641
+46.119.123.119 1 1 21206 20150520062806
+38.100.21.68 2 11 293981 20150518162333
+188.165.135.204 1 1 1 20150524155245
+93.54.67.182 1 1 2671 20150524061344
+138.128.2.241 2 2 24133 20150528172506
+66.102.6.226 1 1 10037 20150520020228
+207.90.2.9 2 2 42764 20150530192403
+171.13.14.146 3 26 1053052 20150528000924
+221.223.44.112 2 34 1675046 20150528050001
+155.94.220.35 2 2 32364 20150521073526
+14.17.18.147 1 14 583027 20150512035442
+213.251.182.103 1 1 39398 20150529131140
+94.242.246.24 1 1 21382 20150502110632
+191.233.101.87 4 4 85010 20150504050306
+65.55.210.12 1 4 186608 20150529162344
+23.247.237.74 2 2 32364 20150515083635
+76.185.135.131 3 48 3311538 20150508224724
+178.95.197.68 1 1 0 20150524233656
+146.148.125.31 1 1 2671 20150523133053
+54.163.175.74 1 1 21206 20150521205746
+31.184.238.103 2 2 68191 20150523093942
+220.181.132.192 1 23 997461 20150505220409
+209.128.119.166 4 4 84138 20150530044724
+61.135.190.223 1 1 21382 20150502131926
+220.181.108.84 0 1 12727 
+72.52.94.234 4 45 1660811 20150504172222
+202.46.50.85 1 1 47092 20150505181025
+134.255.163.209 1 1 2671 20150525225124
+107.152.128.28 1 1 29613 20150511003202
+61.135.190.221 1 1 10213 20150509093821
+217.220.110.230 1 1 2671 20150526120519
+212.112.119.47 1 1 21206 20150513101703
+104.155.77.101 1 1 2671 20150526142904
+64.233.172.211 0 1 25173 
+93.61.51.114 1 1 2671 20150525181411
+128.70.70.239 1 1 1164 20150520055312
+93.54.90.35 1 1 2671 20150523235119
+202.46.62.147 1 1 21382 20150506045424
+78.111.186.244 1 1 0 20150524233658
+93.61.66.134 1 1 2671 20150524015907
+94.32.168.2 1 1 2671 20150524102208
+61.135.190.219 3 6 346229 20150522204450
+112.90.11.79 1 14 583027 20150506092449
+50.93.249.212 4 39 1980265 20150508075737
+61.135.190.222 1 4 88315 20150510084029
+87.206.220.104 1 1 21382 20150514012719
+160.176.57.149 1 1 3559 20150520222833
+183.207.224.50 1 1 2671 20150514065608
+202.46.63.83 1 1 21382 20150505065944
+61.135.190.101 0 1 95807 
+37.214.3.49 1 1 2742 20150520090615
+52.4.152.143 1 1 2671 20150520181818
+118.26.192.194 2 38 1946146 20150505202045
+91.200.13.64 1 1 21382 20150521214523
+220.181.132.218 1 1 21206 20150505220353
+54.84.179.12 1 1 21382 20150524163825
+202.46.49.128 1 1 29848 20150510003911
+62.210.214.106 1 1 2738 20150528001519
+62.210.37.113 4 4 85528 20150530083947
+178.18.141.110 1 1 21382 20150516061440
+173.164.108.181 4 78 4847116 20150529213856
+167.160.127.244 2 2 32364 20150517231300
+188.72.127.103 1 1 21382 20150530092354
+61.135.190.104 1 1 10213 20150501044554
+64.233.172.219 2 2 42412 20150504172224
+220.181.132.217 1 1 10037 20150528000537
+5.45.124.42 2 2 32088 20150503021036
+5.133.62.147 1 1 2671 20150526180304
+31.193.141.19 2 2 24120 20150527175012
+93.61.27.63 1 1 2671 20150525131246
+173.232.99.238 2 2 32364 20150519030431
+45.56.94.138 1 10 259566 20150505213446
+188.120.223.198 3 3 21384 20150519155729
+192.99.144.50 1 1 21382 20150505151331
+61.135.190.102 2 24 1003376 20150523212939
+172.56.20.120 2 37 1920973 20150505121902
+202.46.52.52 1 1 29848 20150511180825
+67.22.248.52 4 77 4863477 20150522131606
+167.160.127.22 2 2 32364 20150528004927
+207.46.13.16 0 1 2429 
+101.226.89.64 1 1 21382 20150512035442
+93.51.213.56 1 1 2671 20150526150355
+199.30.25.129 1 36 1916119 20150508131404
+85.20.139.26 1 1 2671 20150525082303
+61.135.190.103 3 19 855095 20150530000250
+107.77.94.15 2 31 1156844 20150523112445
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20150501 1 1 10213 1
+20150502 2 2 42764 2
+20150503 3 11 513925 3
+20150504 25 309 8610954 6
+20150505 25 142 7247826 10
+20150506 2 15 604409 2
+20150507 5 7 94762 2
+20150508 16 192 11670069 6
+20150509 1 1 10213 1
+20150510 2 6 213970 2
+20150511 3 11 541298 3
+20150512 2 15 604409 2
+20150513 1 1 21206 1
+20150514 2 2 24053 2
+20150515 8 45 2541450 5
+20150516 2 6 205504 2
+20150517 2 2 32364 1
+20150518 9 61 2669075 5
+20150519 17 17 432524 4
+20150520 7 7 41380 7
+20150521 6 42 2494104 4
+20150522 17 281 9082387 5
+20150523 13 54 1875124 6
+20150524 7 7 29396 7
+20150525 4 4 10684 4
+20150526 6 6 32067 6
+20150527 1 1 2738 1
+20150528 13 68 2834796 8
+20150529 8 48 2686992 4
+20150530 11 18 546894 6
+20150531 7 7 31203 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 1
+2mn-5mn 5
+30s-2mn 4
+15mn-30mn 2
+0s-30s 105
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 158 3688292 90 71
+/wp-login.php 24 65677 18 24
+/wp-admin/admin-ajax.php 19 509 5 7
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff 15 431256 0 9
+/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf 6 283992 2 4
+/xmlrpc.php 2 795 1 1
+/wp-login.php/ 1 2671 1 1
+/wp-content/themes/index.php 1 0 1 1
+/wp-content/index.php 1 0 1 1
+/wp-admin/maint/repair.php 1 1164 1 1
+END_SIDER
